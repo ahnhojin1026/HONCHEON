@@ -1,0 +1,4828 @@
+{
+  "edge_0": {
+    "operating_flight": "QR859",
+    "codeshares": [
+      "JU8358",
+      "IB6329",
+      "BA2293",
+      "LA6037",
+      "AT5713",
+      "OZ6889",
+      "WB1570"
+    ],
+    "airline": "카타르항공",
+    "destination": "DOH",
+    "schedule_time": "202602240020",
+    "is_codeshare": true
+  },
+  "edge_1": {
+    "operating_flight": "IT603",
+    "codeshares": [],
+    "airline": "타이거에어 타이완",
+    "destination": "TPE",
+    "schedule_time": "202602240030",
+    "is_codeshare": false
+  },
+  "edge_2": {
+    "operating_flight": "ZE871",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "PVG",
+    "schedule_time": "202602240030",
+    "is_codeshare": false
+  },
+  "edge_3": {
+    "operating_flight": "VJ975",
+    "codeshares": [],
+    "airline": "비엣젯항공",
+    "destination": "PQC",
+    "schedule_time": "202602240145",
+    "is_codeshare": false
+  },
+  "edge_4": {
+    "operating_flight": "5J187",
+    "codeshares": [],
+    "airline": "세부퍼시픽항공",
+    "destination": "MNL",
+    "schedule_time": "202602240215",
+    "is_codeshare": false
+  },
+  "edge_5": {
+    "operating_flight": "VJ979",
+    "codeshares": [],
+    "airline": "비엣젯항공",
+    "destination": "PQC",
+    "schedule_time": "202602240220",
+    "is_codeshare": false
+  },
+  "edge_6": {
+    "operating_flight": "HX627",
+    "codeshares": [
+      "OZ9295"
+    ],
+    "airline": "홍콩항공",
+    "destination": "HKG",
+    "schedule_time": "202602240230",
+    "is_codeshare": true
+  },
+  "edge_7": {
+    "operating_flight": "UO615",
+    "codeshares": [
+      "CX5615"
+    ],
+    "airline": "홍콩익스프레스",
+    "destination": "HKG",
+    "schedule_time": "202602240220",
+    "is_codeshare": true
+  },
+  "edge_8": {
+    "operating_flight": "VJ977",
+    "codeshares": [],
+    "airline": "비엣젯항공",
+    "destination": "PQC",
+    "schedule_time": "202602240500",
+    "is_codeshare": false
+  },
+  "edge_9": {
+    "operating_flight": "VN441",
+    "codeshares": [
+      "KE5679"
+    ],
+    "airline": "베트남항공",
+    "destination": "CXR",
+    "schedule_time": "202602240615",
+    "is_codeshare": true
+  },
+  "edge_10": {
+    "operating_flight": "VJ837",
+    "codeshares": [],
+    "airline": "비엣젯항공",
+    "destination": "CXR",
+    "schedule_time": "202602240620",
+    "is_codeshare": false
+  },
+  "edge_11": {
+    "operating_flight": "RF316",
+    "codeshares": [],
+    "airline": "에어로케이항공",
+    "destination": "KIX",
+    "schedule_time": "202602240620",
+    "is_codeshare": false
+  },
+  "edge_12": {
+    "operating_flight": "7C1401",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "FUK",
+    "schedule_time": "202602240630",
+    "is_codeshare": false
+  },
+  "edge_13": {
+    "operating_flight": "VJ963",
+    "codeshares": [],
+    "airline": "비엣젯항공",
+    "destination": "HAN",
+    "schedule_time": "202602240625",
+    "is_codeshare": false
+  },
+  "edge_14": {
+    "operating_flight": "UO617",
+    "codeshares": [],
+    "airline": "홍콩익스프레스",
+    "destination": "HKG",
+    "schedule_time": "202602240640",
+    "is_codeshare": false
+  },
+  "edge_15": {
+    "operating_flight": "VJ835",
+    "codeshares": [],
+    "airline": "비엣젯항공",
+    "destination": "CXR",
+    "schedule_time": "202602240645",
+    "is_codeshare": false
+  },
+  "edge_16": {
+    "operating_flight": "ZE583",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "PQC",
+    "schedule_time": "202602240645",
+    "is_codeshare": false
+  },
+  "edge_17": {
+    "operating_flight": "MU5050",
+    "codeshares": [
+      "KE5845"
+    ],
+    "airline": "중국동방항공",
+    "destination": "XIY",
+    "schedule_time": "202602240650",
+    "is_codeshare": true
+  },
+  "edge_18": {
+    "operating_flight": "LJ261",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "FUK",
+    "schedule_time": "202602240650",
+    "is_codeshare": false
+  },
+  "edge_19": {
+    "operating_flight": "OD821",
+    "codeshares": [],
+    "airline": "바틱 에어 말레이시아",
+    "destination": "KUL",
+    "schedule_time": "202602240650",
+    "is_codeshare": false
+  },
+  "edge_20": {
+    "operating_flight": "DV468",
+    "codeshares": [],
+    "airline": "스캇항공",
+    "destination": "CIT",
+    "schedule_time": "202602240655",
+    "is_codeshare": false
+  },
+  "edge_21": {
+    "operating_flight": "VJ879",
+    "codeshares": [],
+    "airline": "비엣젯항공",
+    "destination": "DAD",
+    "schedule_time": "202602240700",
+    "is_codeshare": false
+  },
+  "edge_22": {
+    "operating_flight": "VJ865",
+    "codeshares": [],
+    "airline": "비엣젯항공",
+    "destination": "SGN",
+    "schedule_time": "202602240700",
+    "is_codeshare": false
+  },
+  "edge_23": {
+    "operating_flight": "5J185",
+    "codeshares": [],
+    "airline": "세부퍼시픽항공",
+    "destination": "MNL",
+    "schedule_time": "202602240700",
+    "is_codeshare": false
+  },
+  "edge_24": {
+    "operating_flight": "7C1301",
+    "codeshares": [
+      "OZ112",
+      "EY8448",
+      "NH6952"
+    ],
+    "airline": "제주항공",
+    "destination": "KIX",
+    "schedule_time": "202602240700",
+    "is_codeshare": true
+  },
+  "edge_25": {
+    "operating_flight": "7C1721",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "MYJ",
+    "schedule_time": "202602240700",
+    "is_codeshare": false
+  },
+  "edge_26": {
+    "operating_flight": "KE1401",
+    "codeshares": [
+      "DL7855"
+    ],
+    "airline": "대한항공",
+    "destination": "PUS",
+    "schedule_time": "202602240700",
+    "is_codeshare": true
+  },
+  "edge_27": {
+    "operating_flight": "PR487",
+    "codeshares": [],
+    "airline": "필리핀항공",
+    "destination": "CEB",
+    "schedule_time": "202602240705",
+    "is_codeshare": false
+  },
+  "edge_28": {
+    "operating_flight": "7C1601",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "FSZ",
+    "schedule_time": "202602240710",
+    "is_codeshare": false
+  },
+  "edge_29": {
+    "operating_flight": "OZ743",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "BKK",
+    "schedule_time": "202602240710",
+    "is_codeshare": false
+  },
+  "edge_30": {
+    "operating_flight": "VJ925",
+    "codeshares": [],
+    "airline": "비엣젯항공",
+    "destination": "HPH",
+    "schedule_time": "202602240715",
+    "is_codeshare": false
+  },
+  "edge_31": {
+    "operating_flight": "7C2121",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "TAG",
+    "schedule_time": "202602240715",
+    "is_codeshare": false
+  },
+  "edge_32": {
+    "operating_flight": "RS711",
+    "codeshares": [],
+    "airline": "에어서울",
+    "destination": "KIX",
+    "schedule_time": "202602240715",
+    "is_codeshare": false
+  },
+  "edge_33": {
+    "operating_flight": "BX156",
+    "codeshares": [
+      "OZ9576"
+    ],
+    "airline": "에어부산",
+    "destination": "FUK",
+    "schedule_time": "202602240715",
+    "is_codeshare": true
+  },
+  "edge_34": {
+    "operating_flight": "ZE605",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "NRT",
+    "schedule_time": "202602240715",
+    "is_codeshare": false
+  },
+  "edge_35": {
+    "operating_flight": "7C1501",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "CTS",
+    "schedule_time": "202602240720",
+    "is_codeshare": false
+  },
+  "edge_36": {
+    "operating_flight": "RS723",
+    "codeshares": [],
+    "airline": "에어서울",
+    "destination": "FUK",
+    "schedule_time": "202602240720",
+    "is_codeshare": false
+  },
+  "edge_37": {
+    "operating_flight": "MU2004",
+    "codeshares": [
+      "KE5855"
+    ],
+    "airline": "중국동방항공",
+    "destination": "KMG",
+    "schedule_time": "202602240725",
+    "is_codeshare": true
+  },
+  "edge_38": {
+    "operating_flight": "LJ201",
+    "codeshares": [
+      "KE5741"
+    ],
+    "airline": "진에어",
+    "destination": "NRT",
+    "schedule_time": "202602240725",
+    "is_codeshare": true
+  },
+  "edge_39": {
+    "operating_flight": "MM712",
+    "codeshares": [],
+    "airline": "피치항공",
+    "destination": "KIX",
+    "schedule_time": "202602240730",
+    "is_codeshare": false
+  },
+  "edge_40": {
+    "operating_flight": "OZ731",
+    "codeshares": [
+      "EY8474"
+    ],
+    "airline": "아시아나항공",
+    "destination": "SGN",
+    "schedule_time": "202602240730",
+    "is_codeshare": true
+  },
+  "edge_41": {
+    "operating_flight": "PR401",
+    "codeshares": [],
+    "airline": "필리핀항공",
+    "destination": "MNL",
+    "schedule_time": "202602240730",
+    "is_codeshare": false
+  },
+  "edge_42": {
+    "operating_flight": "OZ701",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "MNL",
+    "schedule_time": "202602240735",
+    "is_codeshare": false
+  },
+  "edge_43": {
+    "operating_flight": "BX164",
+    "codeshares": [],
+    "airline": "에어부산",
+    "destination": "NRT",
+    "schedule_time": "202602240735",
+    "is_codeshare": false
+  },
+  "edge_44": {
+    "operating_flight": "LJ345",
+    "codeshares": [
+      "KE5079"
+    ],
+    "airline": "진에어",
+    "destination": "NGO",
+    "schedule_time": "202602240740",
+    "is_codeshare": true
+  },
+  "edge_45": {
+    "operating_flight": "KE621",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "MNL",
+    "schedule_time": "202602240740",
+    "is_codeshare": false
+  },
+  "edge_46": {
+    "operating_flight": "ZE621",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "CTS",
+    "schedule_time": "202602240740",
+    "is_codeshare": false
+  },
+  "edge_47": {
+    "operating_flight": "TW007",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "DAD",
+    "schedule_time": "202602240745",
+    "is_codeshare": false
+  },
+  "edge_48": {
+    "operating_flight": "7C1615",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "HIJ",
+    "schedule_time": "202602240745",
+    "is_codeshare": false
+  },
+  "edge_49": {
+    "operating_flight": "TW287",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "KMJ",
+    "schedule_time": "202602240750",
+    "is_codeshare": false
+  },
+  "edge_50": {
+    "operating_flight": "LJ735",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "RMQ",
+    "schedule_time": "202602240750",
+    "is_codeshare": false
+  },
+  "edge_51": {
+    "operating_flight": "KE2189",
+    "codeshares": [
+      "DL7935",
+      "JL5228"
+    ],
+    "airline": "대한항공",
+    "destination": "KMQ",
+    "schedule_time": "202602240750",
+    "is_codeshare": true
+  },
+  "edge_52": {
+    "operating_flight": "KE859",
+    "codeshares": [
+      "MF9100"
+    ],
+    "airline": "대한항공",
+    "destination": "PEK",
+    "schedule_time": "202602240755",
+    "is_codeshare": true
+  },
+  "edge_53": {
+    "operating_flight": "OZ172",
+    "codeshares": [
+      "NH6994"
+    ],
+    "airline": "아시아나항공",
+    "destination": "OKA",
+    "schedule_time": "202602240755",
+    "is_codeshare": true
+  },
+  "edge_54": {
+    "operating_flight": "TW301",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "KIX",
+    "schedule_time": "202602240755",
+    "is_codeshare": false
+  },
+  "edge_55": {
+    "operating_flight": "TW121",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "CEB",
+    "schedule_time": "202602240800",
+    "is_codeshare": false
+  },
+  "edge_56": {
+    "operating_flight": "LJ231",
+    "codeshares": [
+      "KE5071"
+    ],
+    "airline": "진에어",
+    "destination": "KIX",
+    "schedule_time": "202602240800",
+    "is_codeshare": true
+  },
+  "edge_57": {
+    "operating_flight": "KE2191",
+    "codeshares": [
+      "DL7907"
+    ],
+    "airline": "대한항공",
+    "destination": "NGS",
+    "schedule_time": "202602240800",
+    "is_codeshare": true
+  },
+  "edge_58": {
+    "operating_flight": "OZ711",
+    "codeshares": [
+      "BR2147"
+    ],
+    "airline": "아시아나항공",
+    "destination": "TPE",
+    "schedule_time": "202602240800",
+    "is_codeshare": true
+  },
+  "edge_59": {
+    "operating_flight": "KE441",
+    "codeshares": [
+      "DL7805",
+      "VN3415",
+      "WS6067"
+    ],
+    "airline": "대한항공",
+    "destination": "HAN",
+    "schedule_time": "202602240800",
+    "is_codeshare": true
+  },
+  "edge_60": {
+    "operating_flight": "7C1391",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "KIX",
+    "schedule_time": "202602240805",
+    "is_codeshare": false
+  },
+  "edge_61": {
+    "operating_flight": "LJ217",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "NRT",
+    "schedule_time": "202602240805",
+    "is_codeshare": false
+  },
+  "edge_62": {
+    "operating_flight": "KE787",
+    "codeshares": [
+      "JL5220",
+      "KL4252",
+      "OM6709",
+      "DL7892"
+    ],
+    "airline": "대한항공",
+    "destination": "FUK",
+    "schedule_time": "202602240750",
+    "is_codeshare": true
+  },
+  "edge_63": {
+    "operating_flight": "KE2001",
+    "codeshares": [
+      "WS6075",
+      "DL7771"
+    ],
+    "airline": "대한항공",
+    "destination": "HKG",
+    "schedule_time": "202602240810",
+    "is_codeshare": true
+  },
+  "edge_64": {
+    "operating_flight": "OZ122",
+    "codeshares": [
+      "EY8457",
+      "NH6964"
+    ],
+    "airline": "아시아나항공",
+    "destination": "NGO",
+    "schedule_time": "202602240810",
+    "is_codeshare": true
+  },
+  "edge_65": {
+    "operating_flight": "RS705",
+    "codeshares": [
+      "7C1101"
+    ],
+    "airline": "에어서울",
+    "destination": "NRT",
+    "schedule_time": "202602240810",
+    "is_codeshare": true
+  },
+  "edge_66": {
+    "operating_flight": "KE835",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "SZX",
+    "schedule_time": "202602240815",
+    "is_codeshare": false
+  },
+  "edge_67": {
+    "operating_flight": "OZ331",
+    "codeshares": [
+      "CA5002"
+    ],
+    "airline": "아시아나항공",
+    "destination": "PEK",
+    "schedule_time": "202602240820",
+    "is_codeshare": true
+  },
+  "edge_68": {
+    "operating_flight": "OZ369",
+    "codeshares": [
+      "ZH3308"
+    ],
+    "airline": "아시아나항공",
+    "destination": "CAN",
+    "schedule_time": "202602240820",
+    "is_codeshare": true
+  },
+  "edge_69": {
+    "operating_flight": "TW285",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "HSG",
+    "schedule_time": "202602240825",
+    "is_codeshare": false
+  },
+  "edge_70": {
+    "operating_flight": "KE881",
+    "codeshares": [
+      "MU8930",
+      "FM8752",
+      "MF9086"
+    ],
+    "airline": "대한항공",
+    "destination": "PVG",
+    "schedule_time": "202602240825",
+    "is_codeshare": true
+  },
+  "edge_71": {
+    "operating_flight": "KE2171",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "UKB",
+    "schedule_time": "202602240825",
+    "is_codeshare": false
+  },
+  "edge_72": {
+    "operating_flight": "MU2044",
+    "codeshares": [
+      "KE5869",
+      "FM3076"
+    ],
+    "airline": "중국동방항공",
+    "destination": "TAO",
+    "schedule_time": "202602240830",
+    "is_codeshare": true
+  },
+  "edge_73": {
+    "operating_flight": "LJ267",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "FUK",
+    "schedule_time": "202602240830",
+    "is_codeshare": false
+  },
+  "edge_74": {
+    "operating_flight": "NX825",
+    "codeshares": [
+      "OZ6865"
+    ],
+    "airline": "에어마카오",
+    "destination": "MFM",
+    "schedule_time": "202602240830",
+    "is_codeshare": true
+  },
+  "edge_75": {
+    "operating_flight": "7C8401",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "TAO",
+    "schedule_time": "202602240810",
+    "is_codeshare": false
+  },
+  "edge_76": {
+    "operating_flight": "LJ301",
+    "codeshares": [
+      "KE5061"
+    ],
+    "airline": "진에어",
+    "destination": "CTS",
+    "schedule_time": "202602240835",
+    "is_codeshare": true
+  },
+  "edge_77": {
+    "operating_flight": "TW241",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "NRT",
+    "schedule_time": "202602240835",
+    "is_codeshare": false
+  },
+  "edge_78": {
+    "operating_flight": "ZE645",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "FUK",
+    "schedule_time": "202602240840",
+    "is_codeshare": false
+  },
+  "edge_79": {
+    "operating_flight": "ZE601",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "NRT",
+    "schedule_time": "202602240840",
+    "is_codeshare": false
+  },
+  "edge_80": {
+    "operating_flight": "7C1171",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "NRT",
+    "schedule_time": "202602240845",
+    "is_codeshare": false
+  },
+  "edge_81": {
+    "operating_flight": "KE831",
+    "codeshares": [
+      "MU8962"
+    ],
+    "airline": "대한항공",
+    "destination": "SHE",
+    "schedule_time": "202602240845",
+    "is_codeshare": true
+  },
+  "edge_82": {
+    "operating_flight": "KE2179",
+    "codeshares": [
+      "DL7899",
+      "JL5248"
+    ],
+    "airline": "대한항공",
+    "destination": "KOJ",
+    "schedule_time": "202602240845",
+    "is_codeshare": true
+  },
+  "edge_83": {
+    "operating_flight": "RS741",
+    "codeshares": [],
+    "airline": "에어서울",
+    "destination": "TAK",
+    "schedule_time": "202602240845",
+    "is_codeshare": false
+  },
+  "edge_84": {
+    "operating_flight": "SC8006",
+    "codeshares": [],
+    "airline": "산동항공",
+    "destination": "SYX",
+    "schedule_time": "202602240845",
+    "is_codeshare": false
+  },
+  "edge_85": {
+    "operating_flight": "KE723",
+    "codeshares": [
+      "JL5210",
+      "OM6703",
+      "DL7785"
+    ],
+    "airline": "대한항공",
+    "destination": "KIX",
+    "schedule_time": "202602240850",
+    "is_codeshare": true
+  },
+  "edge_86": {
+    "operating_flight": "SQ607",
+    "codeshares": [
+      "AI8171",
+      "OZ6781",
+      "VA5677"
+    ],
+    "airline": "싱가포르항공",
+    "destination": "SIN",
+    "schedule_time": "202602240850",
+    "is_codeshare": true
+  },
+  "edge_87": {
+    "operating_flight": "MU5052",
+    "codeshares": [
+      "KE5879",
+      "FM3070"
+    ],
+    "airline": "중국동방항공",
+    "destination": "PVG",
+    "schedule_time": "202602240855",
+    "is_codeshare": true
+  },
+  "edge_88": {
+    "operating_flight": "KE867",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "CAN",
+    "schedule_time": "202602240855",
+    "is_codeshare": false
+  },
+  "edge_89": {
+    "operating_flight": "LJ233",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "KIX",
+    "schedule_time": "202602240855",
+    "is_codeshare": false
+  },
+  "edge_90": {
+    "operating_flight": "KE841",
+    "codeshares": [
+      "MU8940"
+    ],
+    "airline": "대한항공",
+    "destination": "TAO",
+    "schedule_time": "202602240855",
+    "is_codeshare": true
+  },
+  "edge_91": {
+    "operating_flight": "KE2021",
+    "codeshares": [
+      "DL7775",
+      "CI9065"
+    ],
+    "airline": "대한항공",
+    "destination": "TPE",
+    "schedule_time": "202602240900",
+    "is_codeshare": true
+  },
+  "edge_92": {
+    "operating_flight": "OZ721",
+    "codeshares": [
+      "HX1551",
+      "UA7306"
+    ],
+    "airline": "아시아나항공",
+    "destination": "HKG",
+    "schedule_time": "202602240900",
+    "is_codeshare": true
+  },
+  "edge_93": {
+    "operating_flight": "OZ102",
+    "codeshares": [
+      "UA7318",
+      "EY8453",
+      "NH6972",
+      "NZ4060"
+    ],
+    "airline": "아시아나항공",
+    "destination": "NRT",
+    "schedule_time": "202602240900",
+    "is_codeshare": true
+  },
+  "edge_94": {
+    "operating_flight": "OZ351",
+    "codeshares": [
+      "CA5016"
+    ],
+    "airline": "아시아나항공",
+    "destination": "YNJ",
+    "schedule_time": "202602240900",
+    "is_codeshare": true
+  },
+  "edge_95": {
+    "operating_flight": "KE155",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "HFE",
+    "schedule_time": "202602240900",
+    "is_codeshare": false
+  },
+  "edge_96": {
+    "operating_flight": "KE133",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "CGO",
+    "schedule_time": "202602240905",
+    "is_codeshare": false
+  },
+  "edge_97": {
+    "operating_flight": "OZ303",
+    "codeshares": [
+      "CZ4202"
+    ],
+    "airline": "아시아나항공",
+    "destination": "CGQ",
+    "schedule_time": "202602240905",
+    "is_codeshare": true
+  },
+  "edge_98": {
+    "operating_flight": "ZE611",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "KIX",
+    "schedule_time": "202602240905",
+    "is_codeshare": false
+  },
+  "edge_99": {
+    "operating_flight": "7C1303",
+    "codeshares": [
+      "BX172",
+      "OZ9568"
+    ],
+    "airline": "제주항공",
+    "destination": "KIX",
+    "schedule_time": "202602240910",
+    "is_codeshare": true
+  },
+  "edge_100": {
+    "operating_flight": "ZE625",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "CTS",
+    "schedule_time": "202602240910",
+    "is_codeshare": false
+  },
+  "edge_101": {
+    "operating_flight": "KE471",
+    "codeshares": [
+      "DL7815",
+      "VN3403",
+      "WS6069"
+    ],
+    "airline": "대한항공",
+    "destination": "SGN",
+    "schedule_time": "202602240910",
+    "is_codeshare": true
+  },
+  "edge_102": {
+    "operating_flight": "OZ729",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "HAN",
+    "schedule_time": "202602240910",
+    "is_codeshare": false
+  },
+  "edge_103": {
+    "operating_flight": "KE811",
+    "codeshares": [
+      "MU8946"
+    ],
+    "airline": "대한항공",
+    "destination": "XIY",
+    "schedule_time": "202602240915",
+    "is_codeshare": true
+  },
+  "edge_104": {
+    "operating_flight": "KE415",
+    "codeshares": [
+      "DL7827"
+    ],
+    "airline": "대한항공",
+    "destination": "GUM",
+    "schedule_time": "202602240915",
+    "is_codeshare": true
+  },
+  "edge_105": {
+    "operating_flight": "KE115",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "YNJ",
+    "schedule_time": "202602240920",
+    "is_codeshare": false
+  },
+  "edge_106": {
+    "operating_flight": "RS701",
+    "codeshares": [],
+    "airline": "에어서울",
+    "destination": "NRT",
+    "schedule_time": "202602240920",
+    "is_codeshare": false
+  },
+  "edge_107": {
+    "operating_flight": "CZ316",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "PKX",
+    "schedule_time": "202602240925",
+    "is_codeshare": false
+  },
+  "edge_108": {
+    "operating_flight": "DL158",
+    "codeshares": [
+      "KE7273"
+    ],
+    "airline": "델타항공",
+    "destination": "DTW",
+    "schedule_time": "202602240935",
+    "is_codeshare": true
+  },
+  "edge_109": {
+    "operating_flight": "OZ301",
+    "codeshares": [
+      "CA5012"
+    ],
+    "airline": "아시아나항공",
+    "destination": "DLC",
+    "schedule_time": "202602240935",
+    "is_codeshare": true
+  },
+  "edge_110": {
+    "operating_flight": "OZ551",
+    "codeshares": [
+      "TK8091"
+    ],
+    "airline": "아시아나항공",
+    "destination": "IST",
+    "schedule_time": "202602240935",
+    "is_codeshare": true
+  },
+  "edge_111": {
+    "operating_flight": "OZ361",
+    "codeshares": [
+      "HO3105"
+    ],
+    "airline": "아시아나항공",
+    "destination": "PVG",
+    "schedule_time": "202602240905",
+    "is_codeshare": true
+  },
+  "edge_112": {
+    "operating_flight": "OZ152",
+    "codeshares": [
+      "NH6982"
+    ],
+    "airline": "아시아나항공",
+    "destination": "SDJ",
+    "schedule_time": "202602240935",
+    "is_codeshare": true
+  },
+  "edge_113": {
+    "operating_flight": "TG659",
+    "codeshares": [],
+    "airline": "타이항공",
+    "destination": "BKK",
+    "schedule_time": "202602240935",
+    "is_codeshare": false
+  },
+  "edge_114": {
+    "operating_flight": "WE501",
+    "codeshares": [],
+    "airline": "파라타항공",
+    "destination": "NRT",
+    "schedule_time": "202602240940",
+    "is_codeshare": false
+  },
+  "edge_115": {
+    "operating_flight": "7C1201",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "NGO",
+    "schedule_time": "202602240940",
+    "is_codeshare": false
+  },
+  "edge_116": {
+    "operating_flight": "LJ731",
+    "codeshares": [
+      "KE5755"
+    ],
+    "airline": "진에어",
+    "destination": "TPE",
+    "schedule_time": "202602240940",
+    "is_codeshare": true
+  },
+  "edge_117": {
+    "operating_flight": "KE1403",
+    "codeshares": [
+      "DL7931",
+      "GA9989"
+    ],
+    "airline": "대한항공",
+    "destination": "PUS",
+    "schedule_time": "202602240940",
+    "is_codeshare": true
+  },
+  "edge_118": {
+    "operating_flight": "LJ081",
+    "codeshares": [
+      "KE5769"
+    ],
+    "airline": "진에어",
+    "destination": "DAD",
+    "schedule_time": "202602240945",
+    "is_codeshare": true
+  },
+  "edge_119": {
+    "operating_flight": "KE657",
+    "codeshares": [
+      "DL7894",
+      "HA6009"
+    ],
+    "airline": "대한항공",
+    "destination": "BKK",
+    "schedule_time": "202602240915",
+    "is_codeshare": true
+  },
+  "edge_120": {
+    "operating_flight": "KE035",
+    "codeshares": [
+      "DL7851"
+    ],
+    "airline": "대한항공",
+    "destination": "ATL",
+    "schedule_time": "202602240945",
+    "is_codeshare": true
+  },
+  "edge_121": {
+    "operating_flight": "7C6021",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "HKG",
+    "schedule_time": "202602240950",
+    "is_codeshare": false
+  },
+  "edge_122": {
+    "operating_flight": "LJ361",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "ISG",
+    "schedule_time": "202602240950",
+    "is_codeshare": false
+  },
+  "edge_123": {
+    "operating_flight": "OZ337",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "YNZ",
+    "schedule_time": "202602240920",
+    "is_codeshare": false
+  },
+  "edge_124": {
+    "operating_flight": "ZE615",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "KIX",
+    "schedule_time": "202602240955",
+    "is_codeshare": false
+  },
+  "edge_125": {
+    "operating_flight": "KE703",
+    "codeshares": [
+      "AM6750",
+      "DL7779",
+      "JL5202",
+      "TN1577"
+    ],
+    "airline": "대한항공",
+    "destination": "NRT",
+    "schedule_time": "202602240955",
+    "is_codeshare": true
+  },
+  "edge_126": {
+    "operating_flight": "OZ371",
+    "codeshares": [
+      "ZH3302"
+    ],
+    "airline": "아시아나항공",
+    "destination": "SZX",
+    "schedule_time": "202602240955",
+    "is_codeshare": true
+  },
+  "edge_127": {
+    "operating_flight": "KE483",
+    "codeshares": [
+      "DL7848"
+    ],
+    "airline": "대한항공",
+    "destination": "PQC",
+    "schedule_time": "202602241000",
+    "is_codeshare": true
+  },
+  "edge_128": {
+    "operating_flight": "HY512",
+    "codeshares": [
+      "KE5941",
+      "OZ9241"
+    ],
+    "airline": "우즈베키스탄항공",
+    "destination": "TAS",
+    "schedule_time": "202602241000",
+    "is_codeshare": true
+  },
+  "edge_129": {
+    "operating_flight": "CX417",
+    "codeshares": [
+      "QF8228",
+      "QR3488"
+    ],
+    "airline": "캐세이퍼시픽항공",
+    "destination": "HKG",
+    "schedule_time": "202602241000",
+    "is_codeshare": true
+  },
+  "edge_130": {
+    "operating_flight": "KE2197",
+    "codeshares": [
+      "DL7901",
+      "JL5226"
+    ],
+    "airline": "대한항공",
+    "destination": "KIJ",
+    "schedule_time": "202602241005",
+    "is_codeshare": true
+  },
+  "edge_131": {
+    "operating_flight": "KE125",
+    "codeshares": [
+      "MF9018"
+    ],
+    "airline": "대한항공",
+    "destination": "XMN",
+    "schedule_time": "202602241005",
+    "is_codeshare": true
+  },
+  "edge_132": {
+    "operating_flight": "KE077",
+    "codeshares": [
+      "WS6063"
+    ],
+    "airline": "대한항공",
+    "destination": "YYZ",
+    "schedule_time": "202602241005",
+    "is_codeshare": true
+  },
+  "edge_133": {
+    "operating_flight": "KE765",
+    "codeshares": [
+      "DL7898",
+      "JL5208",
+      "KL4255",
+      "VS5511"
+    ],
+    "airline": "대한항공",
+    "destination": "CTS",
+    "schedule_time": "202602241005",
+    "is_codeshare": true
+  },
+  "edge_134": {
+    "operating_flight": "KE127",
+    "codeshares": [
+      "MF9594"
+    ],
+    "airline": "대한항공",
+    "destination": "FOC",
+    "schedule_time": "202602241005",
+    "is_codeshare": true
+  },
+  "edge_135": {
+    "operating_flight": "TW125",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "KLO",
+    "schedule_time": "202602240920",
+    "is_codeshare": false
+  },
+  "edge_136": {
+    "operating_flight": "VN431",
+    "codeshares": [
+      "KE5673"
+    ],
+    "airline": "베트남항공",
+    "destination": "DAD",
+    "schedule_time": "202602241010",
+    "is_codeshare": true
+  },
+  "edge_137": {
+    "operating_flight": "ZE671",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "TKS",
+    "schedule_time": "202602241010",
+    "is_codeshare": false
+  },
+  "edge_138": {
+    "operating_flight": "7C3211",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "SPN",
+    "schedule_time": "202602241010",
+    "is_codeshare": false
+  },
+  "edge_139": {
+    "operating_flight": "LJ341",
+    "codeshares": [
+      "KE5745"
+    ],
+    "airline": "진에어",
+    "destination": "OKA",
+    "schedule_time": "202602241010",
+    "is_codeshare": true
+  },
+  "edge_140": {
+    "operating_flight": "OZ347",
+    "codeshares": [
+      "ZH3304"
+    ],
+    "airline": "아시아나항공",
+    "destination": "XIY",
+    "schedule_time": "202602241010",
+    "is_codeshare": true
+  },
+  "edge_141": {
+    "operating_flight": "TW201",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "FUK",
+    "schedule_time": "202602241010",
+    "is_codeshare": false
+  },
+  "edge_142": {
+    "operating_flight": "AK1624",
+    "codeshares": [],
+    "airline": "에어아시아 버하드",
+    "destination": "BKI",
+    "schedule_time": "202602241015",
+    "is_codeshare": false
+  },
+  "edge_143": {
+    "operating_flight": "KE805",
+    "codeshares": [
+      "MF9098"
+    ],
+    "airline": "대한항공",
+    "destination": "TSN",
+    "schedule_time": "202602241015",
+    "is_codeshare": true
+  },
+  "edge_144": {
+    "operating_flight": "KE093",
+    "codeshares": [
+      "DL7857"
+    ],
+    "airline": "대한항공",
+    "destination": "IAD",
+    "schedule_time": "202602241015",
+    "is_codeshare": true
+  },
+  "edge_145": {
+    "operating_flight": "7C1315",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "KIX",
+    "schedule_time": "202602241015",
+    "is_codeshare": false
+  },
+  "edge_146": {
+    "operating_flight": "TW243",
+    "codeshares": [
+      "LJ205"
+    ],
+    "airline": "티웨이항공",
+    "destination": "NRT",
+    "schedule_time": "202602241020",
+    "is_codeshare": true
+  },
+  "edge_147": {
+    "operating_flight": "KE031",
+    "codeshares": [
+      "DL7869"
+    ],
+    "airline": "대한항공",
+    "destination": "DFW",
+    "schedule_time": "202602241020",
+    "is_codeshare": true
+  },
+  "edge_148": {
+    "operating_flight": "TW263",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "CTS",
+    "schedule_time": "202602241020",
+    "is_codeshare": false
+  },
+  "edge_149": {
+    "operating_flight": "D7505D",
+    "codeshares": [],
+    "airline": "에어아시아엑스",
+    "destination": "KUL",
+    "schedule_time": "202602240735",
+    "is_codeshare": false
+  },
+  "edge_150": {
+    "operating_flight": "7C2211",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "DAD",
+    "schedule_time": "202602241025",
+    "is_codeshare": false
+  },
+  "edge_151": {
+    "operating_flight": "TW259",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "FUK",
+    "schedule_time": "202602241030",
+    "is_codeshare": false
+  },
+  "edge_152": {
+    "operating_flight": "7C8501",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "WEH",
+    "schedule_time": "202602241030",
+    "is_codeshare": false
+  },
+  "edge_153": {
+    "operating_flight": "VN417",
+    "codeshares": [
+      "KE5683"
+    ],
+    "airline": "베트남항공",
+    "destination": "HAN",
+    "schedule_time": "202602241035",
+    "is_codeshare": true
+  },
+  "edge_154": {
+    "operating_flight": "VN409",
+    "codeshares": [
+      "KE5681"
+    ],
+    "airline": "베트남항공",
+    "destination": "SGN",
+    "schedule_time": "202602241035",
+    "is_codeshare": true
+  },
+  "edge_155": {
+    "operating_flight": "MM714",
+    "codeshares": [],
+    "airline": "피치항공",
+    "destination": "KIX",
+    "schedule_time": "202602241035",
+    "is_codeshare": false
+  },
+  "edge_156": {
+    "operating_flight": "7C1103",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "NRT",
+    "schedule_time": "202602241035",
+    "is_codeshare": false
+  },
+  "edge_157": {
+    "operating_flight": "GA879",
+    "codeshares": [
+      "SV6753",
+      "KE5643"
+    ],
+    "airline": "가루다인도네시아",
+    "destination": "CGK",
+    "schedule_time": "202602241035",
+    "is_codeshare": true
+  },
+  "edge_158": {
+    "operating_flight": "KE741",
+    "codeshares": [
+      "DL7791",
+      "JL5216",
+      "KL4251",
+      "OM6715"
+    ],
+    "airline": "대한항공",
+    "destination": "NGO",
+    "schedule_time": "202602241035",
+    "is_codeshare": true
+  },
+  "edge_159": {
+    "operating_flight": "7C1403",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "FUK",
+    "schedule_time": "202602241035",
+    "is_codeshare": false
+  },
+  "edge_160": {
+    "operating_flight": "7C6101",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "TPE",
+    "schedule_time": "202602241040",
+    "is_codeshare": false
+  },
+  "edge_161": {
+    "operating_flight": "KE037",
+    "codeshares": [
+      "DL7863"
+    ],
+    "airline": "대한항공",
+    "destination": "ORD",
+    "schedule_time": "202602241040",
+    "is_codeshare": true
+  },
+  "edge_162": {
+    "operating_flight": "KE907",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "LHR",
+    "schedule_time": "202602241040",
+    "is_codeshare": false
+  },
+  "edge_163": {
+    "operating_flight": "KE2015",
+    "codeshares": [
+      "DL7903"
+    ],
+    "airline": "대한항공",
+    "destination": "MFM",
+    "schedule_time": "202602241040",
+    "is_codeshare": true
+  },
+  "edge_164": {
+    "operating_flight": "KE791",
+    "codeshares": [
+      "DL7801",
+      "JL5272",
+      "KL3394"
+    ],
+    "airline": "대한항공",
+    "destination": "FUK",
+    "schedule_time": "202602241050",
+    "is_codeshare": true
+  },
+  "edge_165": {
+    "operating_flight": "OZ545",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "PRG",
+    "schedule_time": "202602241050",
+    "is_codeshare": false
+  },
+  "edge_166": {
+    "operating_flight": "OZ363",
+    "codeshares": [
+      "HO3111"
+    ],
+    "airline": "아시아나항공",
+    "destination": "PVG",
+    "schedule_time": "202602241050",
+    "is_codeshare": true
+  },
+  "edge_167": {
+    "operating_flight": "TG657",
+    "codeshares": [],
+    "airline": "타이항공",
+    "destination": "BKK",
+    "schedule_time": "202602241050",
+    "is_codeshare": false
+  },
+  "edge_168": {
+    "operating_flight": "QV924",
+    "codeshares": [],
+    "airline": "라오항공",
+    "destination": "VTE",
+    "schedule_time": "202602241050",
+    "is_codeshare": false
+  },
+  "edge_169": {
+    "operating_flight": "YP1311",
+    "codeshares": [],
+    "airline": "에어프레미아",
+    "destination": "EWR",
+    "schedule_time": "202602241055",
+    "is_codeshare": false
+  },
+  "edge_170": {
+    "operating_flight": "CZ340",
+    "codeshares": [
+      "3U7034"
+    ],
+    "airline": "중국남방항공",
+    "destination": "CAN",
+    "schedule_time": "202602241055",
+    "is_codeshare": true
+  },
+  "edge_171": {
+    "operating_flight": "TW405",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "FCO",
+    "schedule_time": "202602241100",
+    "is_codeshare": false
+  },
+  "edge_172": {
+    "operating_flight": "7C6001",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "MFM",
+    "schedule_time": "202602241100",
+    "is_codeshare": false
+  },
+  "edge_173": {
+    "operating_flight": "7C1811",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "OIT",
+    "schedule_time": "202602241105",
+    "is_codeshare": false
+  },
+  "edge_174": {
+    "operating_flight": "VJ961",
+    "codeshares": [],
+    "airline": "비엣젯항공",
+    "destination": "HAN",
+    "schedule_time": "202602241105",
+    "is_codeshare": false
+  },
+  "edge_175": {
+    "operating_flight": "KE727",
+    "codeshares": [
+      "DL7789",
+      "JL5270"
+    ],
+    "airline": "대한항공",
+    "destination": "KIX",
+    "schedule_time": "202602241105",
+    "is_codeshare": true
+  },
+  "edge_176": {
+    "operating_flight": "MH067",
+    "codeshares": [
+      "WY5732",
+      "KE5671",
+      "QR5459",
+      "UL2767"
+    ],
+    "airline": "말레이시아 항공",
+    "destination": "KUL",
+    "schedule_time": "202602241105",
+    "is_codeshare": true
+  },
+  "edge_177": {
+    "operating_flight": "WE511",
+    "codeshares": [],
+    "airline": "파라타항공",
+    "destination": "KIX",
+    "schedule_time": "202602241110",
+    "is_codeshare": false
+  },
+  "edge_178": {
+    "operating_flight": "KE887",
+    "codeshares": [
+      "MU8934",
+      "FM8756",
+      "MF9090"
+    ],
+    "airline": "대한항공",
+    "destination": "PVG",
+    "schedule_time": "202602241110",
+    "is_codeshare": true
+  },
+  "edge_179": {
+    "operating_flight": "KE457",
+    "codeshares": [
+      "DL7809",
+      "VN3443"
+    ],
+    "airline": "대한항공",
+    "destination": "DAD",
+    "schedule_time": "202602241110",
+    "is_codeshare": true
+  },
+  "edge_180": {
+    "operating_flight": "CA710",
+    "codeshares": [
+      "OZ6805"
+    ],
+    "airline": "중국국제항공",
+    "destination": "PEK",
+    "schedule_time": "202602241110",
+    "is_codeshare": true
+  },
+  "edge_181": {
+    "operating_flight": "OZ511",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "BCN",
+    "schedule_time": "202602241115",
+    "is_codeshare": false
+  },
+  "edge_182": {
+    "operating_flight": "BX158",
+    "codeshares": [
+      "OZ9578"
+    ],
+    "airline": "에어부산",
+    "destination": "FUK",
+    "schedule_time": "202602241115",
+    "is_codeshare": true
+  },
+  "edge_183": {
+    "operating_flight": "XJ701",
+    "codeshares": [],
+    "airline": "타이에어아시아엑스",
+    "destination": "DMK",
+    "schedule_time": "202602241120",
+    "is_codeshare": false
+  },
+  "edge_184": {
+    "operating_flight": "CZ686",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "DLC",
+    "schedule_time": "202602241120",
+    "is_codeshare": false
+  },
+  "edge_185": {
+    "operating_flight": "ZE631",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "OKA",
+    "schedule_time": "202602241125",
+    "is_codeshare": false
+  },
+  "edge_186": {
+    "operating_flight": "OZ541",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "FRA",
+    "schedule_time": "202602241130",
+    "is_codeshare": false
+  },
+  "edge_187": {
+    "operating_flight": "7C5203",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "UBN",
+    "schedule_time": "202602241130",
+    "is_codeshare": false
+  },
+  "edge_188": {
+    "operating_flight": "TW607",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "TAO",
+    "schedule_time": "202602241140",
+    "is_codeshare": false
+  },
+  "edge_189": {
+    "operating_flight": "BR169",
+    "codeshares": [
+      "AC6539",
+      "NZ4929",
+      "TG6397",
+      "B77027",
+      "OZ6873"
+    ],
+    "airline": "에바항공",
+    "destination": "TPE",
+    "schedule_time": "202602241140",
+    "is_codeshare": true
+  },
+  "edge_190": {
+    "operating_flight": "KC910",
+    "codeshares": [
+      "OZ6961",
+      "CX6227"
+    ],
+    "airline": "에어 아스타나",
+    "destination": "ALA",
+    "schedule_time": "202602241140",
+    "is_codeshare": true
+  },
+  "edge_191": {
+    "operating_flight": "BR145",
+    "codeshares": [
+      "AC6540",
+      "OZ6877"
+    ],
+    "airline": "에바항공",
+    "destination": "KHH",
+    "schedule_time": "202602241145",
+    "is_codeshare": true
+  },
+  "edge_192": {
+    "operating_flight": "MU2990",
+    "codeshares": [],
+    "airline": "중국동방항공",
+    "destination": "WUX",
+    "schedule_time": "202602241145",
+    "is_codeshare": false
+  },
+  "edge_193": {
+    "operating_flight": "SC8002",
+    "codeshares": [
+      "CA8874",
+      "OZ6701"
+    ],
+    "airline": "산동항공",
+    "destination": "TNA",
+    "schedule_time": "202602241145",
+    "is_codeshare": true
+  },
+  "edge_194": {
+    "operating_flight": "RF358",
+    "codeshares": [],
+    "airline": "에어로케이항공",
+    "destination": "OBO",
+    "schedule_time": "202602241150",
+    "is_codeshare": false
+  },
+  "edge_195": {
+    "operating_flight": "VJ863",
+    "codeshares": [],
+    "airline": "비엣젯항공",
+    "destination": "SGN",
+    "schedule_time": "202602241050",
+    "is_codeshare": false
+  },
+  "edge_196": {
+    "operating_flight": "BI652",
+    "codeshares": [],
+    "airline": "로얄브루나이항공",
+    "destination": "BWN",
+    "schedule_time": "202602241150",
+    "is_codeshare": false
+  },
+  "edge_197": {
+    "operating_flight": "MU550",
+    "codeshares": [
+      "KE5847"
+    ],
+    "airline": "중국동방항공",
+    "destination": "YNT",
+    "schedule_time": "202602241155",
+    "is_codeshare": true
+  },
+  "edge_198": {
+    "operating_flight": "MU2040",
+    "codeshares": [
+      "FM3078",
+      "KE5853"
+    ],
+    "airline": "중국동방항공",
+    "destination": "TAO",
+    "schedule_time": "202602241200",
+    "is_codeshare": true
+  },
+  "edge_199": {
+    "operating_flight": "LJ237",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "KIX",
+    "schedule_time": "202602241200",
+    "is_codeshare": false
+  },
+  "edge_200": {
+    "operating_flight": "LJ263",
+    "codeshares": [
+      "KE5075"
+    ],
+    "airline": "진에어",
+    "destination": "FUK",
+    "schedule_time": "202602241200",
+    "is_codeshare": true
+  },
+  "edge_201": {
+    "operating_flight": "CI165",
+    "codeshares": [
+      "KE5699"
+    ],
+    "airline": "중화항공",
+    "destination": "KHH",
+    "schedule_time": "202602241200",
+    "is_codeshare": true
+  },
+  "edge_202": {
+    "operating_flight": "7C1503",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "CTS",
+    "schedule_time": "202602241205",
+    "is_codeshare": false
+  },
+  "edge_203": {
+    "operating_flight": "KE901",
+    "codeshares": [
+      "AF5093"
+    ],
+    "airline": "대한항공",
+    "destination": "CDG",
+    "schedule_time": "202602241205",
+    "is_codeshare": true
+  },
+  "edge_204": {
+    "operating_flight": "AI313",
+    "codeshares": [
+      "OZ6377"
+    ],
+    "airline": "에어인디아 리미티드",
+    "destination": "DEL",
+    "schedule_time": "202602241205",
+    "is_codeshare": true
+  },
+  "edge_205": {
+    "operating_flight": "VZ851",
+    "codeshares": [],
+    "airline": "타이비엣젯항공",
+    "destination": "BKK",
+    "schedule_time": "202602241210",
+    "is_codeshare": false
+  },
+  "edge_206": {
+    "operating_flight": "TW303",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "KIX",
+    "schedule_time": "202602241210",
+    "is_codeshare": false
+  },
+  "edge_207": {
+    "operating_flight": "KE925",
+    "codeshares": [
+      "KL200"
+    ],
+    "airline": "대한항공",
+    "destination": "AMS",
+    "schedule_time": "202602241210",
+    "is_codeshare": true
+  },
+  "edge_208": {
+    "operating_flight": "KE913",
+    "codeshares": [
+      "AR7865",
+      "UX3600"
+    ],
+    "airline": "대한항공",
+    "destination": "MAD",
+    "schedule_time": "202602241210",
+    "is_codeshare": true
+  },
+  "edge_209": {
+    "operating_flight": "MU580",
+    "codeshares": [
+      "KE5859"
+    ],
+    "airline": "중국동방항공",
+    "destination": "NKG",
+    "schedule_time": "202602241215",
+    "is_codeshare": true
+  },
+  "edge_210": {
+    "operating_flight": "CZ314",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "PVG",
+    "schedule_time": "202602241215",
+    "is_codeshare": false
+  },
+  "edge_211": {
+    "operating_flight": "YP733",
+    "codeshares": [],
+    "airline": "에어프레미아",
+    "destination": "NRT",
+    "schedule_time": "202602241215",
+    "is_codeshare": false
+  },
+  "edge_212": {
+    "operating_flight": "MU5072",
+    "codeshares": [
+      "KE5877",
+      "OZ359",
+      "CA5018",
+      "HO3101"
+    ],
+    "airline": "중국동방항공",
+    "destination": "HGH",
+    "schedule_time": "202602241220",
+    "is_codeshare": true
+  },
+  "edge_213": {
+    "operating_flight": "OZ339",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "HRB",
+    "schedule_time": "202602241220",
+    "is_codeshare": false
+  },
+  "edge_214": {
+    "operating_flight": "SC4610",
+    "codeshares": [
+      "CA8888",
+      "OZ6709"
+    ],
+    "airline": "산동항공",
+    "destination": "TAO",
+    "schedule_time": "202602241220",
+    "is_codeshare": true
+  },
+  "edge_215": {
+    "operating_flight": "UO619",
+    "codeshares": [
+      "CX5619"
+    ],
+    "airline": "홍콩익스프레스",
+    "destination": "HKG",
+    "schedule_time": "202602241225",
+    "is_codeshare": true
+  },
+  "edge_216": {
+    "operating_flight": "TW239",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "NRT",
+    "schedule_time": "202602241225",
+    "is_codeshare": false
+  },
+  "edge_217": {
+    "operating_flight": "RS811",
+    "codeshares": [],
+    "airline": "에어서울",
+    "destination": "DYG",
+    "schedule_time": "202602241210",
+    "is_codeshare": false
+  },
+  "edge_218": {
+    "operating_flight": "KE081",
+    "codeshares": [
+      "DL7841"
+    ],
+    "airline": "대한항공",
+    "destination": "JFK",
+    "schedule_time": "202602241000",
+    "is_codeshare": true
+  },
+  "edge_219": {
+    "operating_flight": "CI161",
+    "codeshares": [
+      "AF4160",
+      "DL7718",
+      "HA2571",
+      "KE5691"
+    ],
+    "airline": "중화항공",
+    "destination": "TPE",
+    "schedule_time": "202602241230",
+    "is_codeshare": true
+  },
+  "edge_220": {
+    "operating_flight": "OZ349",
+    "codeshares": [
+      "ZH3294",
+      "HO3103"
+    ],
+    "airline": "아시아나항공",
+    "destination": "NKG",
+    "schedule_time": "202602241230",
+    "is_codeshare": true
+  },
+  "edge_221": {
+    "operating_flight": "OZ521",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "LHR",
+    "schedule_time": "202602241225",
+    "is_codeshare": false
+  },
+  "edge_222": {
+    "operating_flight": "SQ611",
+    "codeshares": [
+      "AI8173",
+      "OZ6725",
+      "VA5681"
+    ],
+    "airline": "싱가포르항공",
+    "destination": "SIN",
+    "schedule_time": "202602241235",
+    "is_codeshare": true
+  },
+  "edge_223": {
+    "operating_flight": "TW281",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "OKA",
+    "schedule_time": "202602241150",
+    "is_codeshare": false
+  },
+  "edge_224": {
+    "operating_flight": "AF267",
+    "codeshares": [
+      "KE5901",
+      "KL2345"
+    ],
+    "airline": "에어 프랑스",
+    "destination": "CDG",
+    "schedule_time": "202602241240",
+    "is_codeshare": true
+  },
+  "edge_225": {
+    "operating_flight": "BX174",
+    "codeshares": [
+      "OZ9570"
+    ],
+    "airline": "에어부산",
+    "destination": "KIX",
+    "schedule_time": "202602241240",
+    "is_codeshare": true
+  },
+  "edge_226": {
+    "operating_flight": "7C1823",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "KOJ",
+    "schedule_time": "202602241240",
+    "is_codeshare": false
+  },
+  "edge_227": {
+    "operating_flight": "CZ682",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "SHE",
+    "schedule_time": "202602241245",
+    "is_codeshare": false
+  },
+  "edge_228": {
+    "operating_flight": "CA172",
+    "codeshares": [
+      "OZ6811"
+    ],
+    "airline": "중국국제항공",
+    "destination": "TSN",
+    "schedule_time": "202602241245",
+    "is_codeshare": true
+  },
+  "edge_229": {
+    "operating_flight": "KE873",
+    "codeshares": [
+      "MU8958"
+    ],
+    "airline": "대한항공",
+    "destination": "DLC",
+    "schedule_time": "202602241250",
+    "is_codeshare": true
+  },
+  "edge_230": {
+    "operating_flight": "MU5042",
+    "codeshares": [
+      "FM3068",
+      "KE5857"
+    ],
+    "airline": "중국동방항공",
+    "destination": "PVG",
+    "schedule_time": "202602241255",
+    "is_codeshare": true
+  },
+  "edge_231": {
+    "operating_flight": "KE769",
+    "codeshares": [
+      "AF5373",
+      "DL7933",
+      "JL5152",
+      "KL4247"
+    ],
+    "airline": "대한항공",
+    "destination": "CTS",
+    "schedule_time": "202602241255",
+    "is_codeshare": true
+  },
+  "edge_232": {
+    "operating_flight": "Z2885",
+    "codeshares": [],
+    "airline": "필리핀에어아시아",
+    "destination": "MNL",
+    "schedule_time": "202602241300",
+    "is_codeshare": false
+  },
+  "edge_233": {
+    "operating_flight": "KE951",
+    "codeshares": [
+      "SV6612",
+      "EK3483"
+    ],
+    "airline": "대한항공",
+    "destination": "DXB",
+    "schedule_time": "202602241300",
+    "is_codeshare": true
+  },
+  "edge_234": {
+    "operating_flight": "ZG046",
+    "codeshares": [],
+    "airline": "집에어",
+    "destination": "NRT",
+    "schedule_time": "202602241305",
+    "is_codeshare": false
+  },
+  "edge_235": {
+    "operating_flight": "7C1703",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "MYJ",
+    "schedule_time": "202602241305",
+    "is_codeshare": false
+  },
+  "edge_236": {
+    "operating_flight": "LH713",
+    "codeshares": [],
+    "airline": "루프트한자 독일항공",
+    "destination": "FRA",
+    "schedule_time": "202602241305",
+    "is_codeshare": false
+  },
+  "edge_237": {
+    "operating_flight": "C6550",
+    "codeshares": [],
+    "airline": "센트럼항공",
+    "destination": "TAS",
+    "schedule_time": "202602241240",
+    "is_codeshare": false
+  },
+  "edge_238": {
+    "operating_flight": "OZ134",
+    "codeshares": [
+      "AC6998",
+      "ET1444",
+      "EY8467",
+      "NH6960",
+      "TK8094"
+    ],
+    "airline": "아시아나항공",
+    "destination": "FUK",
+    "schedule_time": "202602241310",
+    "is_codeshare": true
+  },
+  "edge_239": {
+    "operating_flight": "OZ174",
+    "codeshares": [
+      "ET1294",
+      "NH6998"
+    ],
+    "airline": "아시아나항공",
+    "destination": "CTS",
+    "schedule_time": "202602241310",
+    "is_codeshare": true
+  },
+  "edge_240": {
+    "operating_flight": "CA124",
+    "codeshares": [
+      "OZ6807",
+      "SC124"
+    ],
+    "airline": "중국국제항공",
+    "destination": "PEK",
+    "schedule_time": "202602241310",
+    "is_codeshare": true
+  },
+  "edge_241": {
+    "operating_flight": "MU2034",
+    "codeshares": [
+      "KE5843",
+      "FM3080"
+    ],
+    "airline": "중국동방항공",
+    "destination": "TAO",
+    "schedule_time": "202602241315",
+    "is_codeshare": true
+  },
+  "edge_242": {
+    "operating_flight": "KE843",
+    "codeshares": [
+      "MU8938"
+    ],
+    "airline": "대한항공",
+    "destination": "TAO",
+    "schedule_time": "202602241255",
+    "is_codeshare": true
+  },
+  "edge_243": {
+    "operating_flight": "KE695",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "KTM",
+    "schedule_time": "202602241300",
+    "is_codeshare": false
+  },
+  "edge_244": {
+    "operating_flight": "KE711",
+    "codeshares": [
+      "AF7904",
+      "AM6705",
+      "DL7895",
+      "JL5250",
+      "TN1575"
+    ],
+    "airline": "대한항공",
+    "destination": "NRT",
+    "schedule_time": "202602241315",
+    "is_codeshare": true
+  },
+  "edge_245": {
+    "operating_flight": "7C1801",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "OKA",
+    "schedule_time": "202602241320",
+    "is_codeshare": false
+  },
+  "edge_246": {
+    "operating_flight": "CZ6074",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "YNJ",
+    "schedule_time": "202602241320",
+    "is_codeshare": false
+  },
+  "edge_247": {
+    "operating_flight": "YP101",
+    "codeshares": [],
+    "airline": "에어프레미아",
+    "destination": "LAX",
+    "schedule_time": "202602241320",
+    "is_codeshare": false
+  },
+  "edge_248": {
+    "operating_flight": "MF872",
+    "codeshares": [],
+    "airline": "샤먼항공",
+    "destination": "XMN",
+    "schedule_time": "202602241320",
+    "is_codeshare": false
+  },
+  "edge_249": {
+    "operating_flight": "RS745",
+    "codeshares": [],
+    "airline": "에어서울",
+    "destination": "YGJ",
+    "schedule_time": "202602241320",
+    "is_codeshare": false
+  },
+  "edge_250": {
+    "operating_flight": "OM302",
+    "codeshares": [],
+    "airline": "몽골항공",
+    "destination": "UBN",
+    "schedule_time": "202602241320",
+    "is_codeshare": false
+  },
+  "edge_251": {
+    "operating_flight": "TW671",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "KHH",
+    "schedule_time": "202602241325",
+    "is_codeshare": false
+  },
+  "edge_252": {
+    "operating_flight": "LJ269",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "FUK",
+    "schedule_time": "202602241325",
+    "is_codeshare": false
+  },
+  "edge_253": {
+    "operating_flight": "LO100",
+    "codeshares": [],
+    "airline": "폴란드항공",
+    "destination": "WAW",
+    "schedule_time": "202602241325",
+    "is_codeshare": false
+  },
+  "edge_254": {
+    "operating_flight": "SL353",
+    "codeshares": [],
+    "airline": "타이라이언에어",
+    "destination": "DMK",
+    "schedule_time": "202602241330",
+    "is_codeshare": false
+  },
+  "edge_255": {
+    "operating_flight": "UA806",
+    "codeshares": [
+      "OZ6620"
+    ],
+    "airline": "유나이티드항공",
+    "destination": "SFO",
+    "schedule_time": "202602241245",
+    "is_codeshare": true
+  },
+  "edge_256": {
+    "operating_flight": "CA140",
+    "codeshares": [
+      "OZ6827",
+      "SC126"
+    ],
+    "airline": "중국국제항공",
+    "destination": "HGH",
+    "schedule_time": "202602241335",
+    "is_codeshare": true
+  },
+  "edge_257": {
+    "operating_flight": "7C1617",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "HIJ",
+    "schedule_time": "202602241340",
+    "is_codeshare": false
+  },
+  "edge_258": {
+    "operating_flight": "NQ122",
+    "codeshares": [],
+    "airline": "에어재팬",
+    "destination": "NRT",
+    "schedule_time": "202602241340",
+    "is_codeshare": false
+  },
+  "edge_259": {
+    "operating_flight": "CZ3066",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "CSX",
+    "schedule_time": "202602241340",
+    "is_codeshare": false
+  },
+  "edge_260": {
+    "operating_flight": "OZ713",
+    "codeshares": [
+      "BR2149"
+    ],
+    "airline": "아시아나항공",
+    "destination": "TPE",
+    "schedule_time": "202602241340",
+    "is_codeshare": true
+  },
+  "edge_261": {
+    "operating_flight": "KE2005",
+    "codeshares": [
+      "DL7909",
+      "CX453",
+      "AA8905",
+      "QF8232"
+    ],
+    "airline": "대한항공",
+    "destination": "HKG",
+    "schedule_time": "202602241345",
+    "is_codeshare": true
+  },
+  "edge_262": {
+    "operating_flight": "7C1513",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "HKD",
+    "schedule_time": "202602241350",
+    "is_codeshare": false
+  },
+  "edge_263": {
+    "operating_flight": "ZE647",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "FUK",
+    "schedule_time": "202602241240",
+    "is_codeshare": false
+  },
+  "edge_264": {
+    "operating_flight": "CZ3090",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "SZX",
+    "schedule_time": "202602241355",
+    "is_codeshare": false
+  },
+  "edge_265": {
+    "operating_flight": "MU2018",
+    "codeshares": [
+      "KE5849"
+    ],
+    "airline": "중국동방항공",
+    "destination": "WEH",
+    "schedule_time": "202602241400",
+    "is_codeshare": true
+  },
+  "edge_266": {
+    "operating_flight": "KE1405",
+    "codeshares": [
+      "GA9991",
+      "AF5368",
+      "DL7889"
+    ],
+    "airline": "대한항공",
+    "destination": "PUS",
+    "schedule_time": "202602241400",
+    "is_codeshare": true
+  },
+  "edge_267": {
+    "operating_flight": "CA440",
+    "codeshares": [
+      "OZ6847",
+      "SC128"
+    ],
+    "airline": "중국국제항공",
+    "destination": "CKG",
+    "schedule_time": "202602241400",
+    "is_codeshare": true
+  },
+  "edge_268": {
+    "operating_flight": "SC4612",
+    "codeshares": [
+      "CA8856",
+      "OZ6711"
+    ],
+    "airline": "산동항공",
+    "destination": "TAO",
+    "schedule_time": "202602241400",
+    "is_codeshare": true
+  },
+  "edge_269": {
+    "operating_flight": "OZ561",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "FCO",
+    "schedule_time": "202602241405",
+    "is_codeshare": false
+  },
+  "edge_270": {
+    "operating_flight": "NX821",
+    "codeshares": [
+      "OZ6867"
+    ],
+    "airline": "에어마카오",
+    "destination": "MFM",
+    "schedule_time": "202602241405",
+    "is_codeshare": true
+  },
+  "edge_271": {
+    "operating_flight": "LJ303",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "CTS",
+    "schedule_time": "202602241410",
+    "is_codeshare": false
+  },
+  "edge_272": {
+    "operating_flight": "LJ359",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "TAK",
+    "schedule_time": "202602241410",
+    "is_codeshare": false
+  },
+  "edge_273": {
+    "operating_flight": "KE091",
+    "codeshares": [
+      "DL7839"
+    ],
+    "airline": "대한항공",
+    "destination": "BOS",
+    "schedule_time": "202602240910",
+    "is_codeshare": true
+  },
+  "edge_274": {
+    "operating_flight": "OZ365",
+    "codeshares": [
+      "HO3107"
+    ],
+    "airline": "아시아나항공",
+    "destination": "PVG",
+    "schedule_time": "202602241410",
+    "is_codeshare": true
+  },
+  "edge_275": {
+    "operating_flight": "7C1393",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "KIX",
+    "schedule_time": "202602241410",
+    "is_codeshare": false
+  },
+  "edge_276": {
+    "operating_flight": "TW307",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "KIX",
+    "schedule_time": "202602241415",
+    "is_codeshare": false
+  },
+  "edge_277": {
+    "operating_flight": "KE2031",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "RMQ",
+    "schedule_time": "202602241415",
+    "is_codeshare": false
+  },
+  "edge_278": {
+    "operating_flight": "MU5022",
+    "codeshares": [
+      "FM3082",
+      "KE5871"
+    ],
+    "airline": "중국동방항공",
+    "destination": "XIY",
+    "schedule_time": "202602241420",
+    "is_codeshare": true
+  },
+  "edge_279": {
+    "operating_flight": "CA144",
+    "codeshares": [
+      "OZ6825"
+    ],
+    "airline": "중국국제항공",
+    "destination": "YNJ",
+    "schedule_time": "202602241420",
+    "is_codeshare": true
+  },
+  "edge_280": {
+    "operating_flight": "TW669",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "RMQ",
+    "schedule_time": "202602241425",
+    "is_codeshare": false
+  },
+  "edge_281": {
+    "operating_flight": "KE833",
+    "codeshares": [
+      "MU8964"
+    ],
+    "airline": "대한항공",
+    "destination": "SHE",
+    "schedule_time": "202602241425",
+    "is_codeshare": true
+  },
+  "edge_282": {
+    "operating_flight": "RS727",
+    "codeshares": [],
+    "airline": "에어서울",
+    "destination": "FUK",
+    "schedule_time": "202602241425",
+    "is_codeshare": false
+  },
+  "edge_283": {
+    "operating_flight": "HX629",
+    "codeshares": [
+      "OZ9293"
+    ],
+    "airline": "홍콩항공",
+    "destination": "HKG",
+    "schedule_time": "202602241425",
+    "is_codeshare": true
+  },
+  "edge_284": {
+    "operating_flight": "KE017",
+    "codeshares": [
+      "DL7835",
+      "LA8428",
+      "AM6702"
+    ],
+    "airline": "대한항공",
+    "destination": "LAX",
+    "schedule_time": "202602241430",
+    "is_codeshare": true
+  },
+  "edge_285": {
+    "operating_flight": "3U3974",
+    "codeshares": [],
+    "airline": "사천항공",
+    "destination": "TFU",
+    "schedule_time": "202602241430",
+    "is_codeshare": false
+  },
+  "edge_286": {
+    "operating_flight": "CZ688",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "CGQ",
+    "schedule_time": "202602241435",
+    "is_codeshare": false
+  },
+  "edge_287": {
+    "operating_flight": "ZE623",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "CTS",
+    "schedule_time": "202602241435",
+    "is_codeshare": false
+  },
+  "edge_288": {
+    "operating_flight": "KE643",
+    "codeshares": [
+      "WS6033",
+      "DL7819"
+    ],
+    "airline": "대한항공",
+    "destination": "SIN",
+    "schedule_time": "202602241435",
+    "is_codeshare": true
+  },
+  "edge_289": {
+    "operating_flight": "KE2147",
+    "codeshares": [
+      "AF5375",
+      "KL9164",
+      "JL5274",
+      "DL7795",
+      "VS5513"
+    ],
+    "airline": "대한항공",
+    "destination": "OKA",
+    "schedule_time": "202602241435",
+    "is_codeshare": true
+  },
+  "edge_290": {
+    "operating_flight": "KE8707",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "NRT",
+    "schedule_time": "202602241440",
+    "is_codeshare": false
+  },
+  "edge_291": {
+    "operating_flight": "TW205",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "FUK",
+    "schedule_time": "202602241445",
+    "is_codeshare": false
+  },
+  "edge_292": {
+    "operating_flight": "7C1107",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "NRT",
+    "schedule_time": "202602241450",
+    "is_codeshare": false
+  },
+  "edge_293": {
+    "operating_flight": "7C1203",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "NGO",
+    "schedule_time": "202602241450",
+    "is_codeshare": false
+  },
+  "edge_294": {
+    "operating_flight": "CZ338",
+    "codeshares": [
+      "3U7032"
+    ],
+    "airline": "중국남방항공",
+    "destination": "CAN",
+    "schedule_time": "202602241450",
+    "is_codeshare": true
+  },
+  "edge_295": {
+    "operating_flight": "CA132",
+    "codeshares": [],
+    "airline": "중국국제항공",
+    "destination": "PKX",
+    "schedule_time": "202602241450",
+    "is_codeshare": false
+  },
+  "edge_296": {
+    "operating_flight": "CA402",
+    "codeshares": [
+      "OZ6831"
+    ],
+    "airline": "중국국제항공",
+    "destination": "TFU",
+    "schedule_time": "202602241455",
+    "is_codeshare": true
+  },
+  "edge_297": {
+    "operating_flight": "ZH634",
+    "codeshares": [
+      "CA3844",
+      "OZ6883"
+    ],
+    "airline": "심천항공",
+    "destination": "SZX",
+    "schedule_time": "202602241455",
+    "is_codeshare": true
+  },
+  "edge_298": {
+    "operating_flight": "LJ235",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "KIX",
+    "schedule_time": "202602241500",
+    "is_codeshare": false
+  },
+  "edge_299": {
+    "operating_flight": "OZ335",
+    "codeshares": [
+      "ZH3310",
+      "CA5006"
+    ],
+    "airline": "아시아나항공",
+    "destination": "PEK",
+    "schedule_time": "202602241500",
+    "is_codeshare": true
+  },
+  "edge_300": {
+    "operating_flight": "ZE613",
+    "codeshares": [
+      "MM718",
+      "BX176",
+      "OZ9572"
+    ],
+    "airline": "이스타항공",
+    "destination": "KIX",
+    "schedule_time": "202602241505",
+    "is_codeshare": true
+  },
+  "edge_301": {
+    "operating_flight": "KE437",
+    "codeshares": [
+      "DL7913",
+      "GA9727"
+    ],
+    "airline": "대한항공",
+    "destination": "CGK",
+    "schedule_time": "202602241505",
+    "is_codeshare": true
+  },
+  "edge_302": {
+    "operating_flight": "KE725",
+    "codeshares": [
+      "AF5374",
+      "DL7787",
+      "JL5212",
+      "OM6705"
+    ],
+    "airline": "대한항공",
+    "destination": "KIX",
+    "schedule_time": "202602241510",
+    "is_codeshare": true
+  },
+  "edge_303": {
+    "operating_flight": "LJ207",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "NRT",
+    "schedule_time": "202602241515",
+    "is_codeshare": false
+  },
+  "edge_304": {
+    "operating_flight": "7C1405",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "FUK",
+    "schedule_time": "202602241520",
+    "is_codeshare": false
+  },
+  "edge_305": {
+    "operating_flight": "LJ737",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "RMQ",
+    "schedule_time": "202602241520",
+    "is_codeshare": false
+  },
+  "edge_306": {
+    "operating_flight": "ZE603",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "NRT",
+    "schedule_time": "202602241520",
+    "is_codeshare": false
+  },
+  "edge_307": {
+    "operating_flight": "RS715",
+    "codeshares": [],
+    "airline": "에어서울",
+    "destination": "KIX",
+    "schedule_time": "202602241520",
+    "is_codeshare": false
+  },
+  "edge_308": {
+    "operating_flight": "LJ861",
+    "codeshares": [
+      "SC4614",
+      "CA8892",
+      "OZ6715"
+    ],
+    "airline": "진에어",
+    "destination": "TAO",
+    "schedule_time": "202602241525",
+    "is_codeshare": true
+  },
+  "edge_309": {
+    "operating_flight": "KE8795",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "FUK",
+    "schedule_time": "202602241530",
+    "is_codeshare": false
+  },
+  "edge_310": {
+    "operating_flight": "TW161",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "SIN",
+    "schedule_time": "202602241530",
+    "is_codeshare": false
+  },
+  "edge_311": {
+    "operating_flight": "ZE651",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "KOJ",
+    "schedule_time": "202602241535",
+    "is_codeshare": false
+  },
+  "edge_312": {
+    "operating_flight": "OZ124",
+    "codeshares": [
+      "NH6966",
+      "TK8092",
+      "EY8471"
+    ],
+    "airline": "아시아나항공",
+    "destination": "NGO",
+    "schedule_time": "202602241535",
+    "is_codeshare": true
+  },
+  "edge_313": {
+    "operating_flight": "OZ106",
+    "codeshares": [
+      "EY8454",
+      "NH6976",
+      "NZ4056",
+      "UA7322",
+      "BX166"
+    ],
+    "airline": "아시아나항공",
+    "destination": "NRT",
+    "schedule_time": "202602241535",
+    "is_codeshare": true
+  },
+  "edge_314": {
+    "operating_flight": "7C2711",
+    "codeshares": [
+      "JT3117"
+    ],
+    "airline": "제주항공",
+    "destination": "DPS",
+    "schedule_time": "202602241535",
+    "is_codeshare": true
+  },
+  "edge_315": {
+    "operating_flight": "CX411",
+    "codeshares": [
+      "AA8894",
+      "QF8224",
+      "QR3499"
+    ],
+    "airline": "캐세이퍼시픽항공",
+    "destination": "HKG",
+    "schedule_time": "202602241500",
+    "is_codeshare": true
+  },
+  "edge_316": {
+    "operating_flight": "MU2074",
+    "codeshares": [],
+    "airline": "중국동방항공",
+    "destination": "PKX",
+    "schedule_time": "202602241540",
+    "is_codeshare": false
+  },
+  "edge_317": {
+    "operating_flight": "LJ347",
+    "codeshares": [
+      "KE5081"
+    ],
+    "airline": "진에어",
+    "destination": "NGO",
+    "schedule_time": "202602241540",
+    "is_codeshare": true
+  },
+  "edge_318": {
+    "operating_flight": "OZ761",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "CGK",
+    "schedule_time": "202602241540",
+    "is_codeshare": false
+  },
+  "edge_319": {
+    "operating_flight": "TW305",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "KIX",
+    "schedule_time": "202602241550",
+    "is_codeshare": false
+  },
+  "edge_320": {
+    "operating_flight": "KE2173",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "UKB",
+    "schedule_time": "202602241550",
+    "is_codeshare": false
+  },
+  "edge_321": {
+    "operating_flight": "TW245",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "NRT",
+    "schedule_time": "202602241530",
+    "is_codeshare": false
+  },
+  "edge_322": {
+    "operating_flight": "KE023",
+    "codeshares": [
+      "DL7860"
+    ],
+    "airline": "대한항공",
+    "destination": "SFO",
+    "schedule_time": "202602241600",
+    "is_codeshare": true
+  },
+  "edge_323": {
+    "operating_flight": "KE2155",
+    "codeshares": [
+      "DL7918"
+    ],
+    "airline": "대한항공",
+    "destination": "KMJ",
+    "schedule_time": "202602241600",
+    "is_codeshare": true
+  },
+  "edge_324": {
+    "operating_flight": "7C1603",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "FSZ",
+    "schedule_time": "202602241605",
+    "is_codeshare": false
+  },
+  "edge_325": {
+    "operating_flight": "UO631",
+    "codeshares": [],
+    "airline": "홍콩익스프레스",
+    "destination": "HKG",
+    "schedule_time": "202602241545",
+    "is_codeshare": false
+  },
+  "edge_326": {
+    "operating_flight": "MU268",
+    "codeshares": [
+      "KE5851"
+    ],
+    "airline": "중국동방항공",
+    "destination": "YNT",
+    "schedule_time": "202602241605",
+    "is_codeshare": true
+  },
+  "edge_327": {
+    "operating_flight": "OZ114",
+    "codeshares": [
+      "NH6954",
+      "EY8449"
+    ],
+    "airline": "아시아나항공",
+    "destination": "KIX",
+    "schedule_time": "202602241605",
+    "is_codeshare": true
+  },
+  "edge_328": {
+    "operating_flight": "8M802",
+    "codeshares": [],
+    "airline": "미얀마국제항공",
+    "destination": "RGN",
+    "schedule_time": "202602241605",
+    "is_codeshare": false
+  },
+  "edge_329": {
+    "operating_flight": "MU5012",
+    "codeshares": [
+      "KE5883"
+    ],
+    "airline": "중국동방항공",
+    "destination": "PVG",
+    "schedule_time": "202602241610",
+    "is_codeshare": true
+  },
+  "edge_330": {
+    "operating_flight": "KE041",
+    "codeshares": [
+      "DL7837"
+    ],
+    "airline": "대한항공",
+    "destination": "SEA",
+    "schedule_time": "202602241610",
+    "is_codeshare": true
+  },
+  "edge_331": {
+    "operating_flight": "CZ3062",
+    "codeshares": [
+      "3U7024"
+    ],
+    "airline": "중국남방항공",
+    "destination": "CAN",
+    "schedule_time": "202602241615",
+    "is_codeshare": true
+  },
+  "edge_332": {
+    "operating_flight": "OZ158",
+    "codeshares": [
+      "AC6986",
+      "EY8469",
+      "NH6944"
+    ],
+    "airline": "아시아나항공",
+    "destination": "KMI",
+    "schedule_time": "202602241615",
+    "is_codeshare": true
+  },
+  "edge_333": {
+    "operating_flight": "MU5034",
+    "codeshares": [
+      "FM3072",
+      "KE5885"
+    ],
+    "airline": "중국동방항공",
+    "destination": "PVG",
+    "schedule_time": "202602241620",
+    "is_codeshare": true
+  },
+  "edge_334": {
+    "operating_flight": "KE2027",
+    "codeshares": [
+      "DL7777",
+      "CI9067"
+    ],
+    "airline": "대한항공",
+    "destination": "TPE",
+    "schedule_time": "202602241620",
+    "is_codeshare": true
+  },
+  "edge_335": {
+    "operating_flight": "OZ751",
+    "codeshares": [
+      "AC6994",
+      "SQ5751"
+    ],
+    "airline": "아시아나항공",
+    "destination": "SIN",
+    "schedule_time": "202602241620",
+    "is_codeshare": true
+  },
+  "edge_336": {
+    "operating_flight": "KE431",
+    "codeshares": [
+      "DL7803",
+      "AF7906",
+      "GA9961"
+    ],
+    "airline": "대한항공",
+    "destination": "DPS",
+    "schedule_time": "202602241620",
+    "is_codeshare": true
+  },
+  "edge_337": {
+    "operating_flight": "7C1407",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "FUK",
+    "schedule_time": "202602241620",
+    "is_codeshare": false
+  },
+  "edge_338": {
+    "operating_flight": "7C1121",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "NRT",
+    "schedule_time": "202602241620",
+    "is_codeshare": false
+  },
+  "edge_339": {
+    "operating_flight": "TW049",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "CNX",
+    "schedule_time": "202602241625",
+    "is_codeshare": false
+  },
+  "edge_340": {
+    "operating_flight": "LJ349",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "KKJ",
+    "schedule_time": "202602241625",
+    "is_codeshare": false
+  },
+  "edge_341": {
+    "operating_flight": "ZE597",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "DAD",
+    "schedule_time": "202602241635",
+    "is_codeshare": false
+  },
+  "edge_342": {
+    "operating_flight": "TW055",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "PQC",
+    "schedule_time": "202602241635",
+    "is_codeshare": false
+  },
+  "edge_343": {
+    "operating_flight": "MU560",
+    "codeshares": [
+      "FM3084",
+      "KE5841"
+    ],
+    "airline": "중국동방항공",
+    "destination": "TAO",
+    "schedule_time": "202602241640",
+    "is_codeshare": true
+  },
+  "edge_344": {
+    "operating_flight": "KE427",
+    "codeshares": [
+      "DL7911",
+      "MH5621"
+    ],
+    "airline": "대한항공",
+    "destination": "KUL",
+    "schedule_time": "202602241640",
+    "is_codeshare": true
+  },
+  "edge_345": {
+    "operating_flight": "RS703",
+    "codeshares": [],
+    "airline": "에어서울",
+    "destination": "NRT",
+    "schedule_time": "202602241640",
+    "is_codeshare": false
+  },
+  "edge_346": {
+    "operating_flight": "YP621",
+    "codeshares": [],
+    "airline": "에어프레미아",
+    "destination": "DAD",
+    "schedule_time": "202602241645",
+    "is_codeshare": false
+  },
+  "edge_347": {
+    "operating_flight": "BX727",
+    "codeshares": [],
+    "airline": "에어부산",
+    "destination": "BKK",
+    "schedule_time": "202602241650",
+    "is_codeshare": false
+  },
+  "edge_348": {
+    "operating_flight": "KE713",
+    "codeshares": [
+      "AM6752",
+      "DL7897",
+      "JL5252"
+    ],
+    "airline": "대한항공",
+    "destination": "NRT",
+    "schedule_time": "202602241655",
+    "is_codeshare": true
+  },
+  "edge_349": {
+    "operating_flight": "SQ601",
+    "codeshares": [
+      "AI8167",
+      "OZ6789",
+      "VA5671"
+    ],
+    "airline": "싱가포르항공",
+    "destination": "SIN",
+    "schedule_time": "202602241655",
+    "is_codeshare": true
+  },
+  "edge_350": {
+    "operating_flight": "7C1305",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "KIX",
+    "schedule_time": "202602241655",
+    "is_codeshare": false
+  },
+  "edge_351": {
+    "operating_flight": "OZ747",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "HKT",
+    "schedule_time": "202602241700",
+    "is_codeshare": false
+  },
+  "edge_352": {
+    "operating_flight": "TG653",
+    "codeshares": [],
+    "airline": "타이항공",
+    "destination": "BKK",
+    "schedule_time": "202602241700",
+    "is_codeshare": false
+  },
+  "edge_353": {
+    "operating_flight": "ZE511",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "BKK",
+    "schedule_time": "202602241705",
+    "is_codeshare": false
+  },
+  "edge_354": {
+    "operating_flight": "LJ091",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "PQC",
+    "schedule_time": "202602241705",
+    "is_codeshare": false
+  },
+  "edge_355": {
+    "operating_flight": "LJ001",
+    "codeshares": [
+      "KE5065"
+    ],
+    "airline": "진에어",
+    "destination": "BKK",
+    "schedule_time": "202602241710",
+    "is_codeshare": true
+  },
+  "edge_356": {
+    "operating_flight": "YP601",
+    "codeshares": [],
+    "airline": "에어프레미아",
+    "destination": "BKK",
+    "schedule_time": "202602241715",
+    "is_codeshare": false
+  },
+  "edge_357": {
+    "operating_flight": "ZE581",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "PQC",
+    "schedule_time": "202602241720",
+    "is_codeshare": false
+  },
+  "edge_358": {
+    "operating_flight": "KE651",
+    "codeshares": [
+      "DL7852"
+    ],
+    "airline": "대한항공",
+    "destination": "BKK",
+    "schedule_time": "202602241720",
+    "is_codeshare": true
+  },
+  "edge_359": {
+    "operating_flight": "KE677",
+    "codeshares": [
+      "DL7929"
+    ],
+    "airline": "대한항공",
+    "destination": "HKT",
+    "schedule_time": "202602241725",
+    "is_codeshare": true
+  },
+  "edge_360": {
+    "operating_flight": "ZH632",
+    "codeshares": [
+      "CA3862",
+      "OZ6881"
+    ],
+    "airline": "심천항공",
+    "destination": "SZX",
+    "schedule_time": "202602241645",
+    "is_codeshare": true
+  },
+  "edge_361": {
+    "operating_flight": "CZ696",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "DLC",
+    "schedule_time": "202602241730",
+    "is_codeshare": false
+  },
+  "edge_362": {
+    "operating_flight": "LJ265",
+    "codeshares": [
+      "KE5077"
+    ],
+    "airline": "진에어",
+    "destination": "FUK",
+    "schedule_time": "202602241730",
+    "is_codeshare": true
+  },
+  "edge_363": {
+    "operating_flight": "LJ005",
+    "codeshares": [
+      "KE5067"
+    ],
+    "airline": "진에어",
+    "destination": "HKT",
+    "schedule_time": "202602241735",
+    "is_codeshare": true
+  },
+  "edge_364": {
+    "operating_flight": "9C8560",
+    "codeshares": [],
+    "airline": "춘추항공",
+    "destination": "PVG",
+    "schedule_time": "202602241740",
+    "is_codeshare": false
+  },
+  "edge_365": {
+    "operating_flight": "KE417",
+    "codeshares": [
+      "DL7864"
+    ],
+    "airline": "대한항공",
+    "destination": "GUM",
+    "schedule_time": "202602241745",
+    "is_codeshare": true
+  },
+  "edge_366": {
+    "operating_flight": "KE433",
+    "codeshares": [
+      "DL7872",
+      "GA9965"
+    ],
+    "airline": "대한항공",
+    "destination": "DPS",
+    "schedule_time": "202602241750",
+    "is_codeshare": true
+  },
+  "edge_367": {
+    "operating_flight": "CA126",
+    "codeshares": [
+      "OZ6803",
+      "SC150"
+    ],
+    "airline": "중국국제항공",
+    "destination": "PEK",
+    "schedule_time": "202602241750",
+    "is_codeshare": true
+  },
+  "edge_368": {
+    "operating_flight": "EY823",
+    "codeshares": [
+      "WY5103",
+      "LY9630",
+      "TP6923",
+      "OZ6970",
+      "MS8089",
+      "XY3873"
+    ],
+    "airline": "에티하드 항공",
+    "destination": "AUH",
+    "schedule_time": "202602241750",
+    "is_codeshare": true
+  },
+  "edge_369": {
+    "operating_flight": "VN403",
+    "codeshares": [
+      "KE5675"
+    ],
+    "airline": "베트남항공",
+    "destination": "SGN",
+    "schedule_time": "202602241755",
+    "is_codeshare": true
+  },
+  "edge_370": {
+    "operating_flight": "LJ043",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "TAG",
+    "schedule_time": "202602241800",
+    "is_codeshare": false
+  },
+  "edge_371": {
+    "operating_flight": "DL188",
+    "codeshares": [
+      "KE5039"
+    ],
+    "airline": "델타항공",
+    "destination": "ATL",
+    "schedule_time": "202602241800",
+    "is_codeshare": true
+  },
+  "edge_372": {
+    "operating_flight": "UA892",
+    "codeshares": [
+      "OZ6614"
+    ],
+    "airline": "유나이티드항공",
+    "destination": "SFO",
+    "schedule_time": "202602241800",
+    "is_codeshare": true
+  },
+  "edge_373": {
+    "operating_flight": "VN415",
+    "codeshares": [
+      "KE5689"
+    ],
+    "airline": "베트남항공",
+    "destination": "HAN",
+    "schedule_time": "202602241805",
+    "is_codeshare": true
+  },
+  "edge_374": {
+    "operating_flight": "OZ741",
+    "codeshares": [
+      "AC6996",
+      "ET1298",
+      "OS8052",
+      "TG6727"
+    ],
+    "airline": "아시아나항공",
+    "destination": "BKK",
+    "schedule_time": "202602241805",
+    "is_codeshare": true
+  },
+  "edge_375": {
+    "operating_flight": "TW207",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "FUK",
+    "schedule_time": "202602241805",
+    "is_codeshare": false
+  },
+  "edge_376": {
+    "operating_flight": "7C2315",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "PQC",
+    "schedule_time": "202602241800",
+    "is_codeshare": false
+  },
+  "edge_377": {
+    "operating_flight": "ZE649",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "FUK",
+    "schedule_time": "202602241815",
+    "is_codeshare": false
+  },
+  "edge_378": {
+    "operating_flight": "KE485",
+    "codeshares": [
+      "DL7865",
+      "VN3413"
+    ],
+    "airline": "대한항공",
+    "destination": "PQC",
+    "schedule_time": "202602241815",
+    "is_codeshare": true
+  },
+  "edge_379": {
+    "operating_flight": "7C2623",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "SIN",
+    "schedule_time": "202602241820",
+    "is_codeshare": false
+  },
+  "edge_380": {
+    "operating_flight": "KE467",
+    "codeshares": [
+      "VN3405",
+      "DL7813"
+    ],
+    "airline": "대한항공",
+    "destination": "CXR",
+    "schedule_time": "202602241805",
+    "is_codeshare": true
+  },
+  "edge_381": {
+    "operating_flight": "FM828",
+    "codeshares": [
+      "KE5893",
+      "MU8604"
+    ],
+    "airline": "상하이항공",
+    "destination": "PVG",
+    "schedule_time": "202602241825",
+    "is_codeshare": true
+  },
+  "edge_382": {
+    "operating_flight": "ZE517",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "CNX",
+    "schedule_time": "202602241725",
+    "is_codeshare": false
+  },
+  "edge_383": {
+    "operating_flight": "KE411",
+    "codeshares": [
+      "KL4245",
+      "VS5527"
+    ],
+    "airline": "대한항공",
+    "destination": "AKL",
+    "schedule_time": "202602241825",
+    "is_codeshare": true
+  },
+  "edge_384": {
+    "operating_flight": "KE1407",
+    "codeshares": [
+      "GA9963",
+      "DL7879",
+      "KL4249"
+    ],
+    "airline": "대한항공",
+    "destination": "PUS",
+    "schedule_time": "202602241825",
+    "is_codeshare": true
+  },
+  "edge_385": {
+    "operating_flight": "7C2103",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "MNL",
+    "schedule_time": "202602241805",
+    "is_codeshare": false
+  },
+  "edge_386": {
+    "operating_flight": "TW153",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "BKI",
+    "schedule_time": "202602241830",
+    "is_codeshare": false
+  },
+  "edge_387": {
+    "operating_flight": "KE645",
+    "codeshares": [
+      "DL7821",
+      "OM6231",
+      "WS6031"
+    ],
+    "airline": "대한항공",
+    "destination": "SIN",
+    "schedule_time": "202602241830",
+    "is_codeshare": true
+  },
+  "edge_388": {
+    "operating_flight": "KE071",
+    "codeshares": [
+      "WS6061"
+    ],
+    "airline": "대한항공",
+    "destination": "YVR",
+    "schedule_time": "202602241830",
+    "is_codeshare": true
+  },
+  "edge_389": {
+    "operating_flight": "KE781",
+    "codeshares": [
+      "AF7894",
+      "DL7797",
+      "JL5224",
+      "KL4258",
+      "OM6711",
+      "VS5509"
+    ],
+    "airline": "대한항공",
+    "destination": "FUK",
+    "schedule_time": "202602241840",
+    "is_codeshare": true
+  },
+  "edge_390": {
+    "operating_flight": "OZ108",
+    "codeshares": [
+      "NH6978",
+      "UA7297",
+      "EY8455"
+    ],
+    "airline": "아시아나항공",
+    "destination": "NRT",
+    "schedule_time": "202602241840",
+    "is_codeshare": true
+  },
+  "edge_391": {
+    "operating_flight": "XJ709",
+    "codeshares": [],
+    "airline": "타이에어아시아엑스",
+    "destination": "DMK",
+    "schedule_time": "202602241845",
+    "is_codeshare": false
+  },
+  "edge_392": {
+    "operating_flight": "WE201",
+    "codeshares": [
+      "OZ755",
+      "AC6973"
+    ],
+    "airline": "파라타항공",
+    "destination": "DAD",
+    "schedule_time": "202602241845",
+    "is_codeshare": true
+  },
+  "edge_393": {
+    "operating_flight": "KE721",
+    "codeshares": [
+      "DL7783",
+      "JL5214",
+      "VS5505"
+    ],
+    "airline": "대한항공",
+    "destination": "KIX",
+    "schedule_time": "202602241845",
+    "is_codeshare": true
+  },
+  "edge_394": {
+    "operating_flight": "KE447",
+    "codeshares": [
+      "VN3411",
+      "VS5517",
+      "WS6037",
+      "DL7807"
+    ],
+    "airline": "대한항공",
+    "destination": "HAN",
+    "schedule_time": "202602241845",
+    "is_codeshare": true
+  },
+  "edge_395": {
+    "operating_flight": "KE705",
+    "codeshares": [
+      "AF5376",
+      "AM6700",
+      "DL7781",
+      "JL5206",
+      "VS5503"
+    ],
+    "airline": "대한항공",
+    "destination": "NRT",
+    "schedule_time": "202602241845",
+    "is_codeshare": true
+  },
+  "edge_396": {
+    "operating_flight": "TW643",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "HKG",
+    "schedule_time": "202602241850",
+    "is_codeshare": false
+  },
+  "edge_397": {
+    "operating_flight": "KE475",
+    "codeshares": [
+      "WS6039",
+      "DL7925",
+      "VN3401",
+      "VS5519"
+    ],
+    "airline": "대한항공",
+    "destination": "SGN",
+    "schedule_time": "202602241850",
+    "is_codeshare": true
+  },
+  "edge_398": {
+    "operating_flight": "KE689",
+    "codeshares": [
+      "DL7871"
+    ],
+    "airline": "대한항공",
+    "destination": "KTI",
+    "schedule_time": "202602241850",
+    "is_codeshare": true
+  },
+  "edge_399": {
+    "operating_flight": "KE459",
+    "codeshares": [
+      "DL7811",
+      "WS6041",
+      "VS5521",
+      "VN3441"
+    ],
+    "airline": "대한항공",
+    "destination": "DAD",
+    "schedule_time": "202602241830",
+    "is_codeshare": true
+  },
+  "edge_400": {
+    "operating_flight": "KE743",
+    "codeshares": [
+      "KL9848",
+      "OM6717",
+      "VS5507",
+      "AF7907",
+      "DL7793",
+      "JL5218"
+    ],
+    "airline": "대한항공",
+    "destination": "NGO",
+    "schedule_time": "202602241850",
+    "is_codeshare": true
+  },
+  "edge_401": {
+    "operating_flight": "AC064",
+    "codeshares": [
+      "OZ6102",
+      "SQ1002"
+    ],
+    "airline": "에어캐나다",
+    "destination": "YVR",
+    "schedule_time": "202602241855",
+    "is_codeshare": true
+  },
+  "edge_402": {
+    "operating_flight": "KE401",
+    "codeshares": [
+      "AF7876",
+      "KL9160",
+      "OM6521",
+      "VS5523"
+    ],
+    "airline": "대한항공",
+    "destination": "SYD",
+    "schedule_time": "202602241855",
+    "is_codeshare": true
+  },
+  "edge_403": {
+    "operating_flight": "TW011",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "DAD",
+    "schedule_time": "202602241900",
+    "is_codeshare": false
+  },
+  "edge_404": {
+    "operating_flight": "KE623",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "MNL",
+    "schedule_time": "202602241905",
+    "is_codeshare": false
+  },
+  "edge_405": {
+    "operating_flight": "OZ116",
+    "codeshares": [
+      "AC6974",
+      "ET1290",
+      "EY8450",
+      "NH6956"
+    ],
+    "airline": "아시아나항공",
+    "destination": "KIX",
+    "schedule_time": "202602241905",
+    "is_codeshare": true
+  },
+  "edge_406": {
+    "operating_flight": "7C1395",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "KIX",
+    "schedule_time": "202602241910",
+    "is_codeshare": false
+  },
+  "edge_407": {
+    "operating_flight": "KE1431",
+    "codeshares": [
+      "AF7883",
+      "DL7845",
+      "GA9999"
+    ],
+    "airline": "대한항공",
+    "destination": "TAE",
+    "schedule_time": "202602241840",
+    "is_codeshare": true
+  },
+  "edge_408": {
+    "operating_flight": "7C2515",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "CNX",
+    "schedule_time": "202602241910",
+    "is_codeshare": false
+  },
+  "edge_409": {
+    "operating_flight": "SC4616",
+    "codeshares": [
+      "CA8860",
+      "OZ6713"
+    ],
+    "airline": "산동항공",
+    "destination": "TAO",
+    "schedule_time": "202602241910",
+    "is_codeshare": true
+  },
+  "edge_410": {
+    "operating_flight": "KE601",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "CEB",
+    "schedule_time": "202602241850",
+    "is_codeshare": false
+  },
+  "edge_411": {
+    "operating_flight": "KE891",
+    "codeshares": [
+      "MU8932",
+      "FM8754",
+      "MF9088"
+    ],
+    "airline": "대한항공",
+    "destination": "PVG",
+    "schedule_time": "202602241900",
+    "is_codeshare": true
+  },
+  "edge_412": {
+    "operating_flight": "KE683",
+    "codeshares": [
+      "DL7924"
+    ],
+    "airline": "대한항공",
+    "destination": "CNX",
+    "schedule_time": "202602241845",
+    "is_codeshare": true
+  },
+  "edge_413": {
+    "operating_flight": "AA280",
+    "codeshares": [
+      "MH9427",
+      "KE5031"
+    ],
+    "airline": "아메리칸항공",
+    "destination": "DFW",
+    "schedule_time": "202602241915",
+    "is_codeshare": true
+  },
+  "edge_414": {
+    "operating_flight": "KE163",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "DYG",
+    "schedule_time": "202602241920",
+    "is_codeshare": false
+  },
+  "edge_415": {
+    "operating_flight": "KE653",
+    "codeshares": [
+      "DL7825",
+      "KQ5159"
+    ],
+    "airline": "대한항공",
+    "destination": "BKK",
+    "schedule_time": "202602241905",
+    "is_codeshare": true
+  },
+  "edge_416": {
+    "operating_flight": "OZ703",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "MNL",
+    "schedule_time": "202602241920",
+    "is_codeshare": false
+  },
+  "edge_417": {
+    "operating_flight": "CA562",
+    "codeshares": [],
+    "airline": "중국국제항공",
+    "destination": "YNJ",
+    "schedule_time": "202602241920",
+    "is_codeshare": false
+  },
+  "edge_418": {
+    "operating_flight": "RF314",
+    "codeshares": [],
+    "airline": "에어로케이항공",
+    "destination": "KIX",
+    "schedule_time": "202602241925",
+    "is_codeshare": false
+  },
+  "edge_419": {
+    "operating_flight": "OZ745",
+    "codeshares": [
+      "HX1565",
+      "UA7308"
+    ],
+    "airline": "아시아나항공",
+    "destination": "HKG",
+    "schedule_time": "202602241925",
+    "is_codeshare": true
+  },
+  "edge_420": {
+    "operating_flight": "DL026",
+    "codeshares": [
+      "KE5035"
+    ],
+    "airline": "델타항공",
+    "destination": "ATL",
+    "schedule_time": "202602241925",
+    "is_codeshare": true
+  },
+  "edge_421": {
+    "operating_flight": "OZ735",
+    "codeshares": [
+      "AC6982",
+      "EY8464"
+    ],
+    "airline": "아시아나항공",
+    "destination": "SGN",
+    "schedule_time": "202602241925",
+    "is_codeshare": true
+  },
+  "edge_422": {
+    "operating_flight": "DL170",
+    "codeshares": [
+      "KE5033"
+    ],
+    "airline": "델타항공",
+    "destination": "MSP",
+    "schedule_time": "202602241930",
+    "is_codeshare": true
+  },
+  "edge_423": {
+    "operating_flight": "OZ733",
+    "codeshares": [
+      "AC6984",
+      "UA7314"
+    ],
+    "airline": "아시아나항공",
+    "destination": "HAN",
+    "schedule_time": "202602241930",
+    "is_codeshare": true
+  },
+  "edge_424": {
+    "operating_flight": "RS101",
+    "codeshares": [],
+    "airline": "에어서울",
+    "destination": "GUM",
+    "schedule_time": "202602241930",
+    "is_codeshare": false
+  },
+  "edge_425": {
+    "operating_flight": "7C2503",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "BKK",
+    "schedule_time": "202602241930",
+    "is_codeshare": false
+  },
+  "edge_426": {
+    "operating_flight": "9C8790",
+    "codeshares": [],
+    "airline": "춘추항공",
+    "destination": "SJW",
+    "schedule_time": "202602241935",
+    "is_codeshare": false
+  },
+  "edge_427": {
+    "operating_flight": "LJ131",
+    "codeshares": [
+      "KE5761"
+    ],
+    "airline": "진에어",
+    "destination": "BKI",
+    "schedule_time": "202602241935",
+    "is_codeshare": true
+  },
+  "edge_428": {
+    "operating_flight": "KE479",
+    "codeshares": [
+      "DL7919",
+      "VN3407"
+    ],
+    "airline": "대한항공",
+    "destination": "SGN",
+    "schedule_time": "202602241935",
+    "is_codeshare": true
+  },
+  "edge_429": {
+    "operating_flight": "KE1409",
+    "codeshares": [
+      "AF5391",
+      "DL7887",
+      "KL3396"
+    ],
+    "airline": "대한항공",
+    "destination": "PUS",
+    "schedule_time": "202602241935",
+    "is_codeshare": true
+  },
+  "edge_430": {
+    "operating_flight": "OZ739",
+    "codeshares": [
+      "UA7300"
+    ],
+    "airline": "아시아나항공",
+    "destination": "KTI",
+    "schedule_time": "202602241935",
+    "is_codeshare": true
+  },
+  "edge_431": {
+    "operating_flight": "CX419",
+    "codeshares": [
+      "AA8912",
+      "QR5845"
+    ],
+    "airline": "캐세이퍼시픽항공",
+    "destination": "HKG",
+    "schedule_time": "202602241935",
+    "is_codeshare": true
+  },
+  "edge_432": {
+    "operating_flight": "LJ087",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "CXR",
+    "schedule_time": "202602241940",
+    "is_codeshare": false
+  },
+  "edge_433": {
+    "operating_flight": "KE011",
+    "codeshares": [
+      "AM6704",
+      "DL7833",
+      "LA8426"
+    ],
+    "airline": "대한항공",
+    "destination": "LAX",
+    "schedule_time": "202602241940",
+    "is_codeshare": true
+  },
+  "edge_434": {
+    "operating_flight": "LJ917",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "GUM",
+    "schedule_time": "202602241945",
+    "is_codeshare": false
+  },
+  "edge_435": {
+    "operating_flight": "BR159",
+    "codeshares": [
+      "OZ6871",
+      "AC6534",
+      "NZ4925",
+      "TG6393",
+      "B77025"
+    ],
+    "airline": "에바항공",
+    "destination": "TPE",
+    "schedule_time": "202602241945",
+    "is_codeshare": true
+  },
+  "edge_436": {
+    "operating_flight": "TW437",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "BSZ",
+    "schedule_time": "202602241945",
+    "is_codeshare": false
+  },
+  "edge_437": {
+    "operating_flight": "TW101",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "BKK",
+    "schedule_time": "202602241950",
+    "is_codeshare": false
+  },
+  "edge_438": {
+    "operating_flight": "7C2605",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "BKI",
+    "schedule_time": "202602241950",
+    "is_codeshare": false
+  },
+  "edge_439": {
+    "operating_flight": "KE085",
+    "codeshares": [
+      "DL7843"
+    ],
+    "airline": "대한항공",
+    "destination": "JFK",
+    "schedule_time": "202602241930",
+    "is_codeshare": true
+  },
+  "edge_440": {
+    "operating_flight": "TW513",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "SPN",
+    "schedule_time": "202602242000",
+    "is_codeshare": false
+  },
+  "edge_441": {
+    "operating_flight": "KE2011",
+    "codeshares": [
+      "DL7773",
+      "WS6035",
+      "VS5515"
+    ],
+    "airline": "대한항공",
+    "destination": "HKG",
+    "schedule_time": "202602242000",
+    "is_codeshare": true
+  },
+  "edge_442": {
+    "operating_flight": "OZ601",
+    "codeshares": [
+      "EY8462",
+      "TK8096"
+    ],
+    "airline": "아시아나항공",
+    "destination": "SYD",
+    "schedule_time": "202602242000",
+    "is_codeshare": true
+  },
+  "edge_443": {
+    "operating_flight": "KE8465",
+    "codeshares": [
+      "RS527"
+    ],
+    "airline": "대한항공",
+    "destination": "CXR",
+    "schedule_time": "202602242000",
+    "is_codeshare": true
+  },
+  "edge_444": {
+    "operating_flight": "OZ367",
+    "codeshares": [
+      "HO3109"
+    ],
+    "airline": "아시아나항공",
+    "destination": "PVG",
+    "schedule_time": "202602242000",
+    "is_codeshare": true
+  },
+  "edge_445": {
+    "operating_flight": "TW131",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "VTE",
+    "schedule_time": "202602242005",
+    "is_codeshare": false
+  },
+  "edge_446": {
+    "operating_flight": "MF878",
+    "codeshares": [],
+    "airline": "샤먼항공",
+    "destination": "FOC",
+    "schedule_time": "202602242005",
+    "is_codeshare": false
+  },
+  "edge_447": {
+    "operating_flight": "DL196",
+    "codeshares": [
+      "KE5019"
+    ],
+    "airline": "델타항공",
+    "destination": "SEA",
+    "schedule_time": "202602242005",
+    "is_codeshare": true
+  },
+  "edge_448": {
+    "operating_flight": "KE625",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "MNL",
+    "schedule_time": "202602242005",
+    "is_codeshare": false
+  },
+  "edge_449": {
+    "operating_flight": "CZ652",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "SHE",
+    "schedule_time": "202602242010",
+    "is_codeshare": false
+  },
+  "edge_450": {
+    "operating_flight": "TW033",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "CXR",
+    "schedule_time": "202602242010",
+    "is_codeshare": false
+  },
+  "edge_451": {
+    "operating_flight": "TW061",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "HAN",
+    "schedule_time": "202602242010",
+    "is_codeshare": false
+  },
+  "edge_452": {
+    "operating_flight": "CI163",
+    "codeshares": [
+      "KE5693",
+      "DL7720",
+      "HA2573"
+    ],
+    "airline": "중화항공",
+    "destination": "TPE",
+    "schedule_time": "202602242015",
+    "is_codeshare": true
+  },
+  "edge_453": {
+    "operating_flight": "7C2303",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "CXR",
+    "schedule_time": "202602242015",
+    "is_codeshare": false
+  },
+  "edge_454": {
+    "operating_flight": "7C2113",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "CEB",
+    "schedule_time": "202602242020",
+    "is_codeshare": false
+  },
+  "edge_455": {
+    "operating_flight": "ZE535",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "MDC",
+    "schedule_time": "202602242025",
+    "is_codeshare": false
+  },
+  "edge_456": {
+    "operating_flight": "KE053",
+    "codeshares": [
+      "DL7939",
+      "HA6019"
+    ],
+    "airline": "대한항공",
+    "destination": "HNL",
+    "schedule_time": "202602242035",
+    "is_codeshare": true
+  },
+  "edge_457": {
+    "operating_flight": "KE659",
+    "codeshares": [
+      "DL7917",
+      "HA6011"
+    ],
+    "airline": "대한항공",
+    "destination": "BKK",
+    "schedule_time": "202602242035",
+    "is_codeshare": true
+  },
+  "edge_458": {
+    "operating_flight": "PR403",
+    "codeshares": [],
+    "airline": "필리핀항공",
+    "destination": "MNL",
+    "schedule_time": "202602242035",
+    "is_codeshare": false
+  },
+  "edge_459": {
+    "operating_flight": "7C2401",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "VTE",
+    "schedule_time": "202602242035",
+    "is_codeshare": false
+  },
+  "edge_460": {
+    "operating_flight": "CZ684",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "HRB",
+    "schedule_time": "202602242040",
+    "is_codeshare": false
+  },
+  "edge_461": {
+    "operating_flight": "KE751",
+    "codeshares": [
+      "VS5529",
+      "AF5366",
+      "JL5256"
+    ],
+    "airline": "대한항공",
+    "destination": "HND",
+    "schedule_time": "202602242040",
+    "is_codeshare": true
+  },
+  "edge_462": {
+    "operating_flight": "ZE563",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "CXR",
+    "schedule_time": "202602241915",
+    "is_codeshare": false
+  },
+  "edge_463": {
+    "operating_flight": "7C2125",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "TAG",
+    "schedule_time": "202602242045",
+    "is_codeshare": false
+  },
+  "edge_464": {
+    "operating_flight": "MU2922",
+    "codeshares": [
+      "KE5895"
+    ],
+    "airline": "중국동방항공",
+    "destination": "NKG",
+    "schedule_time": "202602242050",
+    "is_codeshare": true
+  },
+  "edge_465": {
+    "operating_flight": "KE863",
+    "codeshares": [
+      "MF9096"
+    ],
+    "airline": "대한항공",
+    "destination": "PEK",
+    "schedule_time": "202602242050",
+    "is_codeshare": true
+  },
+  "edge_466": {
+    "operating_flight": "OZ212",
+    "codeshares": [
+      "SQ5712",
+      "TG6747",
+      "UA7289"
+    ],
+    "airline": "아시아나항공",
+    "destination": "SFO",
+    "schedule_time": "202602242050",
+    "is_codeshare": true
+  },
+  "edge_467": {
+    "operating_flight": "RS511",
+    "codeshares": [
+      "ZE593"
+    ],
+    "airline": "에어서울",
+    "destination": "DAD",
+    "schedule_time": "202602242055",
+    "is_codeshare": true
+  },
+  "edge_468": {
+    "operating_flight": "MM710",
+    "codeshares": [],
+    "airline": "피치항공",
+    "destination": "KIX",
+    "schedule_time": "202602242100",
+    "is_codeshare": false
+  },
+  "edge_469": {
+    "operating_flight": "KE005",
+    "codeshares": [
+      "DL7831"
+    ],
+    "airline": "대한항공",
+    "destination": "LAS",
+    "schedule_time": "202602242100",
+    "is_codeshare": true
+  },
+  "edge_470": {
+    "operating_flight": "OZ357",
+    "codeshares": [
+      "ZH3292"
+    ],
+    "airline": "아시아나항공",
+    "destination": "CAN",
+    "schedule_time": "202602242100",
+    "is_codeshare": true
+  },
+  "edge_471": {
+    "operating_flight": "CZ370",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "PVG",
+    "schedule_time": "202602242105",
+    "is_codeshare": false
+  },
+  "edge_472": {
+    "operating_flight": "LJ045",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "TAG",
+    "schedule_time": "202602242110",
+    "is_codeshare": false
+  },
+  "edge_473": {
+    "operating_flight": "DL172",
+    "codeshares": [
+      "KE5023"
+    ],
+    "airline": "델타항공",
+    "destination": "SLC",
+    "schedule_time": "202602241940",
+    "is_codeshare": true
+  },
+  "edge_474": {
+    "operating_flight": "OZ709",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "CEB",
+    "schedule_time": "202602242110",
+    "is_codeshare": false
+  },
+  "edge_475": {
+    "operating_flight": "OZ204",
+    "codeshares": [
+      "CM8001",
+      "SQ5704",
+      "TG6743",
+      "UA7287"
+    ],
+    "airline": "아시아나항공",
+    "destination": "LAX",
+    "schedule_time": "202602242100",
+    "is_codeshare": true
+  },
+  "edge_476": {
+    "operating_flight": "SC4618",
+    "codeshares": [
+      "CA8880",
+      "OZ6707"
+    ],
+    "airline": "산동항공",
+    "destination": "TAO",
+    "schedule_time": "202602242110",
+    "is_codeshare": true
+  },
+  "edge_477": {
+    "operating_flight": "LJ089",
+    "codeshares": [],
+    "airline": "진에어",
+    "destination": "CXR",
+    "schedule_time": "202602242115",
+    "is_codeshare": false
+  },
+  "edge_478": {
+    "operating_flight": "7C2217",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "DAD",
+    "schedule_time": "202602242120",
+    "is_codeshare": false
+  },
+  "edge_479": {
+    "operating_flight": "7C2201",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "HAN",
+    "schedule_time": "202602242120",
+    "is_codeshare": false
+  },
+  "edge_480": {
+    "operating_flight": "TW531",
+    "codeshares": [],
+    "airline": "티웨이항공",
+    "destination": "YVR",
+    "schedule_time": "202602242120",
+    "is_codeshare": false
+  },
+  "edge_481": {
+    "operating_flight": "LJ031",
+    "codeshares": [
+      "KE5781"
+    ],
+    "airline": "진에어",
+    "destination": "CEB",
+    "schedule_time": "202602242120",
+    "is_codeshare": true
+  },
+  "edge_482": {
+    "operating_flight": "JQ054",
+    "codeshares": [
+      "AY6441",
+      "QF5506"
+    ],
+    "airline": "젯스타",
+    "destination": "BNE",
+    "schedule_time": "202602242130",
+    "is_codeshare": true
+  },
+  "edge_483": {
+    "operating_flight": "KE655",
+    "codeshares": [
+      "WS6078"
+    ],
+    "airline": "대한항공",
+    "destination": "BKK",
+    "schedule_time": "202602242050",
+    "is_codeshare": true
+  },
+  "edge_484": {
+    "operating_flight": "OZ707",
+    "codeshares": [],
+    "airline": "아시아나항공",
+    "destination": "CRK",
+    "schedule_time": "202602242130",
+    "is_codeshare": false
+  },
+  "edge_485": {
+    "operating_flight": "OZ178",
+    "codeshares": [
+      "NH6896"
+    ],
+    "airline": "아시아나항공",
+    "destination": "HND",
+    "schedule_time": "202602242130",
+    "is_codeshare": true
+  },
+  "edge_486": {
+    "operating_flight": "5J131",
+    "codeshares": [],
+    "airline": "세부퍼시픽항공",
+    "destination": "CEB",
+    "schedule_time": "202602242135",
+    "is_codeshare": false
+  },
+  "edge_487": {
+    "operating_flight": "LJ037",
+    "codeshares": [
+      "KE5763"
+    ],
+    "airline": "진에어",
+    "destination": "CRK",
+    "schedule_time": "202602242135",
+    "is_codeshare": true
+  },
+  "edge_488": {
+    "operating_flight": "BX7135",
+    "codeshares": [],
+    "airline": "에어부산",
+    "destination": "TAG",
+    "schedule_time": "202602242135",
+    "is_codeshare": false
+  },
+  "edge_489": {
+    "operating_flight": "7C2107",
+    "codeshares": [],
+    "airline": "제주항공",
+    "destination": "CRK",
+    "schedule_time": "202602242125",
+    "is_codeshare": false
+  },
+  "edge_490": {
+    "operating_flight": "CZ8172",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "CGQ",
+    "schedule_time": "202602242145",
+    "is_codeshare": false
+  },
+  "edge_491": {
+    "operating_flight": "VJ861",
+    "codeshares": [],
+    "airline": "비엣젯항공",
+    "destination": "SGN",
+    "schedule_time": "202602242115",
+    "is_codeshare": false
+  },
+  "edge_492": {
+    "operating_flight": "UO627",
+    "codeshares": [],
+    "airline": "홍콩익스프레스",
+    "destination": "HKG",
+    "schedule_time": "202602242150",
+    "is_codeshare": false
+  },
+  "edge_493": {
+    "operating_flight": "CZ672",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "SHE",
+    "schedule_time": "202602242150",
+    "is_codeshare": false
+  },
+  "edge_494": {
+    "operating_flight": "YP131",
+    "codeshares": [],
+    "airline": "에어프레미아",
+    "destination": "EWR",
+    "schedule_time": "202602242155",
+    "is_codeshare": false
+  },
+  "edge_495": {
+    "operating_flight": "SC8004",
+    "codeshares": [
+      "OZ6705",
+      "CA8876"
+    ],
+    "airline": "산동항공",
+    "destination": "TNA",
+    "schedule_time": "202602242205",
+    "is_codeshare": true
+  },
+  "edge_496": {
+    "operating_flight": "ZE561",
+    "codeshares": [],
+    "airline": "이스타항공",
+    "destination": "CXR",
+    "schedule_time": "202602242050",
+    "is_codeshare": false
+  },
+  "edge_497": {
+    "operating_flight": "KE619",
+    "codeshares": [],
+    "airline": "대한항공",
+    "destination": "MNL",
+    "schedule_time": "202602242230",
+    "is_codeshare": false
+  },
+  "edge_498": {
+    "operating_flight": "CA442",
+    "codeshares": [],
+    "airline": "중국국제항공",
+    "destination": "TFU",
+    "schedule_time": "202602242235",
+    "is_codeshare": false
+  },
+  "edge_499": {
+    "operating_flight": "VJ875",
+    "codeshares": [],
+    "airline": "비엣젯항공",
+    "destination": "DAD",
+    "schedule_time": "202602242240",
+    "is_codeshare": false
+  },
+  "edge_500": {
+    "operating_flight": "CZ676",
+    "codeshares": [],
+    "airline": "중국남방항공",
+    "destination": "DLC",
+    "schedule_time": "202602242240",
+    "is_codeshare": false
+  },
+  "edge_501": {
+    "operating_flight": "AC062",
+    "codeshares": [
+      "OZ6114"
+    ],
+    "airline": "에어캐나다",
+    "destination": "YYZ",
+    "schedule_time": "202602242010",
+    "is_codeshare": true
+  },
+  "edge_502": {
+    "operating_flight": "MM808",
+    "codeshares": [],
+    "airline": "피치항공",
+    "destination": "HND",
+    "schedule_time": "202602242250",
+    "is_codeshare": false
+  },
+  "edge_503": {
+    "operating_flight": "TR897",
+    "codeshares": [],
+    "airline": "스쿠트 항공",
+    "destination": "SIN",
+    "schedule_time": "202602242300",
+    "is_codeshare": false
+  },
+  "edge_504": {
+    "operating_flight": "OZ2243",
+    "codeshares": [
+      "CM8004",
+      "SQ5722",
+      "TG6745",
+      "UA7293"
+    ],
+    "airline": "아시아나항공",
+    "destination": "JFK",
+    "schedule_time": "202602242300",
+    "is_codeshare": true
+  },
+  "edge_505": {
+    "operating_flight": "AY042",
+    "codeshares": [],
+    "airline": "핀에어",
+    "destination": "HEL",
+    "schedule_time": "202602242300",
+    "is_codeshare": false
+  },
+  "edge_506": {
+    "operating_flight": "KL856",
+    "codeshares": [
+      "KE5925",
+      "AF3112"
+    ],
+    "airline": "KLM네덜란드항공",
+    "destination": "AMS",
+    "schedule_time": "202602242305",
+    "is_codeshare": true
+  },
+  "edge_507": {
+    "operating_flight": "KE647",
+    "codeshares": [
+      "DL7823",
+      "UL3815",
+      "WS6065"
+    ],
+    "airline": "대한항공",
+    "destination": "SIN",
+    "schedule_time": "202602242315",
+    "is_codeshare": true
+  },
+  "edge_508": {
+    "operating_flight": "QW9902",
+    "codeshares": [],
+    "airline": "청도항공",
+    "destination": "TAO",
+    "schedule_time": "202602242320",
+    "is_codeshare": false
+  },
+  "edge_509": {
+    "operating_flight": "ET673",
+    "codeshares": [
+      "OZ9760",
+      "NH5341",
+      "WB1217"
+    ],
+    "airline": "에티오피아항공",
+    "destination": "ADD",
+    "schedule_time": "202602242340",
+    "is_codeshare": true
+  },
+  "edge_510": {
+    "operating_flight": "EK323",
+    "codeshares": [],
+    "airline": "에미레이트항공",
+    "destination": "DXB",
+    "schedule_time": "202602242340",
+    "is_codeshare": false
+  }
+}
